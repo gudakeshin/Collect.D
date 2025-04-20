@@ -1,0 +1,16 @@
+# --- File: run.py ---
+# Main script to run the application
+
+from app import create_app
+
+app = create_app()
+
+if __name__ == '__main__':
+    # Use waitress or gunicorn for production
+    print("Starting Collect.D Backend (Modular Version) via run.py...")
+    # Development server:
+    app.run(debug=True, host='0.0.0.0', port=5001)
+    # Example using waitress (install waitress first: pip install waitress)
+    # from waitress import serve
+    # serve(app, host='0.0.0.0', port=5001)
+

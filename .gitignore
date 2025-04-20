@@ -1,0 +1,28 @@
+# Frontend
+collect.d-frontend/node_modules/
+collect.d-frontend/build/
+collect.d-frontend/.env
+collect.d-frontend/.DS_Store
+collect.d-frontend/coverage/
+
+# Backend
+collect.d-backend/venv/
+collect.d-backend/__pycache__/
+collect.d-backend/*.pyc
+collect.d-backend/.pytest_cache/
+collect.d-backend/db.sqlite3
+collect.d-backend/.DS_Store
+collect.d-backend/debug.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local 

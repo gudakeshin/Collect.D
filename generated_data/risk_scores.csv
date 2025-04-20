@@ -1,0 +1,1001 @@
+customer_id,customer_name,risk_score,risk_category,credit_limit,outstanding_amount,credit_utilization,overdue_rate,avg_days_late,total_invoices,overdue_invoices,has_disputes,has_collection_history,recommended_action,last_assessment_date
+CUST000001,Tata Tech Limited,32,Low Risk,29848888,5307713.67,17.78%,12.50%,10.5,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000002,Reliance Tech Limited,29,Low Risk,7597247,143854.67,1.89%,33.33%,0.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000003,Infosys Tech Limited,38,Low Risk,2076903,405682.89,19.53%,0.00%,29.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000004,Bharti Tech Limited,40,Low Risk,527219,76612.46,14.53%,16.67%,6.6,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000005,HDFC Tech Limited,54,Medium Risk,1892706,842689.08,44.52%,40.00%,32.3,5,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000006,Wipro Tech Limited,26,Low Risk,26510270,928874.41,3.50%,20.00%,0.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000007,Mahindra Tech Limited,32,Low Risk,5417220,919424.68,16.97%,33.33%,0.7,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000008,Birla Tech Limited,44,Low Risk,11940340,1919642.08,16.08%,25.00%,28.5,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000009,Adani Tech Limited,47,Low Risk,270879,103915.95,38.36%,28.57%,3.5,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000010,JSW Tech Limited,46,Low Risk,5963998,433929.00,7.28%,0.00%,44.2,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000011,Godrej Tech Limited,27,Low Risk,2314076,445220.58,19.24%,0.00%,6.8,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000012,L&T Tech Limited,52,Medium Risk,272684,100578.81,36.88%,12.50%,22.0,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000013,ICICI Tech Limited,32,Low Risk,9634632,380402.10,3.95%,16.67%,14.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000014,SBI Tech Limited,47,Low Risk,5880075,621671.71,10.57%,50.00%,5.0,6,3,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000015,TCS Tech Limited,29,Low Risk,869866,99511.45,11.44%,25.00%,0.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000016,Bajaj Tech Limited,35,Low Risk,2259828,0.00,0.00%,0.00%,34.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000017,HCL Tech Limited,48,Low Risk,711014,93080.64,13.09%,0.00%,55.0,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000018,Hindustan Tech Limited,40,Low Risk,3883737,379241.00,9.76%,0.00%,16.7,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000019,Indian Tech Limited,55,Medium Risk,644699,116475.46,18.07%,50.00%,17.0,4,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000020,Tech Tech Limited,45,Low Risk,40639872,0.00,0.00%,0.00%,45.0,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000021,Tata Info Limited,46,Low Risk,11483190,4859519.60,42.32%,12.50%,28.5,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000022,Reliance Info Limited,74,Medium Risk,116785,179354.43,153.58%,37.50%,46.0,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000023,Infosys Info Limited,65,Medium Risk,309079,204578.22,66.19%,28.57%,28.7,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000024,Bharti Info Limited,35,Low Risk,3004041,0.00,0.00%,0.00%,44.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000025,HDFC Info Limited,48,Low Risk,9158328,1638494.26,17.89%,37.50%,44.7,8,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000026,Wipro Info Limited,33,Low Risk,28055683,840104.60,2.99%,25.00%,12.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000027,Mahindra Info Limited,36,Low Risk,28652993,1229273.65,4.29%,0.00%,29.5,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000028,Birla Info Limited,55,Medium Risk,531353,109689.11,20.64%,25.00%,66.7,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000029,Adani Info Limited,41,Low Risk,8973468,630275.72,7.02%,16.67%,51.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000030,JSW Info Limited,39,Low Risk,9820955,0.00,0.00%,0.00%,18.4,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000031,Godrej Info Limited,41,Low Risk,291882,85514.08,29.30%,0.00%,49.0,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000032,L&T Info Limited,52,Medium Risk,9700993,1143440.26,11.79%,16.67%,83.3,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000033,ICICI Info Limited,32,Low Risk,22752429,1695682.16,7.45%,0.00%,1.0,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000034,SBI Info Limited,54,Medium Risk,3110118,829192.79,26.66%,28.57%,23.3,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000035,TCS Info Limited,67,Medium Risk,1157911,1022522.95,88.31%,28.57%,23.7,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000036,Bajaj Info Limited,45,Low Risk,420209,0.00,0.00%,0.00%,54.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000037,HCL Info Limited,30,Low Risk,4559386,131143.57,2.88%,0.00%,19.7,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000038,Hindustan Info Limited,43,Low Risk,28904981,6498129.76,22.48%,75.00%,0.0,4,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000039,Indian Info Limited,30,Low Risk,43532913,3389103.23,7.79%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000040,Tech Info Limited,26,Low Risk,47347843,965727.08,2.04%,16.67%,2.4,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000041,Tata Auto Limited,37,Low Risk,10045493,2800157.99,27.87%,16.67%,14.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000042,Reliance Auto Limited,54,Medium Risk,41622142,6631130.51,15.93%,62.50%,34.7,8,5,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000043,Infosys Auto Limited,47,Low Risk,1942466,542226.03,27.91%,0.00%,23.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000044,Bharti Auto Limited,36,Low Risk,583357,89146.72,15.28%,20.00%,16.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000045,HDFC Auto Limited,47,Low Risk,3516107,579023.92,16.47%,25.00%,14.8,8,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000046,Wipro Auto Limited,35,Low Risk,27551816,1055877.20,3.83%,25.00%,15.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000047,Mahindra Auto Limited,51,Medium Risk,760650,255242.83,33.56%,12.50%,23.2,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000048,Birla Auto Limited,44,Low Risk,829351,112978.60,13.62%,25.00%,55.5,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000049,Adani Auto Limited,63,Medium Risk,207312,99319.31,47.91%,33.33%,34.8,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000050,JSW Auto Limited,50,Medium Risk,668406,75666.24,11.32%,12.50%,35.6,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000051,Godrej Auto Limited,44,Low Risk,319254,121647.75,38.10%,25.00%,0.0,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000052,L&T Auto Limited,35,Low Risk,959657,0.00,0.00%,0.00%,33.5,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000053,ICICI Auto Limited,45,Low Risk,30902343,0.00,0.00%,0.00%,31.3,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000054,SBI Auto Limited,37,Low Risk,24178582,1866491.80,7.72%,0.00%,36.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000055,TCS Auto Limited,26,Low Risk,9981456,114916.21,1.15%,0.00%,12.5,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000056,Bajaj Auto Limited,57,Medium Risk,2577281,1076588.02,41.77%,37.50%,18.7,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000057,HCL Auto Limited,44,Low Risk,890469,156077.79,17.53%,20.00%,73.7,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000058,Hindustan Auto Limited,39,Low Risk,39943631,657531.51,1.65%,14.29%,35.2,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000059,Indian Auto Limited,64,Medium Risk,979290,96287.09,9.83%,66.67%,32.0,3,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000060,Tech Auto Limited,50,Medium Risk,968577,387061.43,39.96%,28.57%,73.5,7,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000061,Tata Fin Limited,55,Medium Risk,135056,67354.09,49.87%,0.00%,98.0,3,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000062,Reliance Fin Limited,20,Minimal Risk,174963602,946691.68,0.54%,0.00%,0.0,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000063,Infosys Fin Limited,59,Medium Risk,507066,137524.03,27.12%,33.33%,35.3,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000064,Bharti Fin Limited,33,Low Risk,678459,169657.74,25.01%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000065,HDFC Fin Limited,37,Low Risk,159584,19193.83,12.03%,0.00%,42.0,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000066,Wipro Fin Limited,56,Medium Risk,1298719,500444.49,38.53%,12.50%,34.7,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000067,Mahindra Fin Limited,49,Low Risk,7898264,872149.01,11.04%,12.50%,28.2,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000068,Birla Fin Limited,35,Low Risk,3992813,623977.27,15.63%,0.00%,4.7,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000069,Adani Fin Limited,56,Medium Risk,10332287,5386309.85,52.13%,42.86%,51.8,7,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000070,JSW Fin Limited,56,Medium Risk,16977417,4304081.34,25.35%,40.00%,21.0,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000071,Godrej Fin Limited,36,Low Risk,19178794,3250662.34,16.95%,20.00%,16.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000072,L&T Fin Limited,30,Low Risk,991993,137609.75,13.87%,25.00%,1.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000073,ICICI Fin Limited,50,Medium Risk,645126,173948.82,26.96%,40.00%,30.0,5,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000074,SBI Fin Limited,33,Low Risk,47265352,1892103.82,4.00%,50.00%,0.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000075,TCS Fin Limited,48,Low Risk,422741,55250.97,13.07%,0.00%,31.0,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000076,Bajaj Fin Limited,59,Medium Risk,1254024,689603.06,54.99%,25.00%,24.2,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000077,HCL Fin Limited,31,Low Risk,7388805,911244.42,12.33%,33.33%,0.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000078,Hindustan Fin Limited,23,Minimal Risk,2827490,0.00,0.00%,0.00%,6.0,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000079,Indian Fin Limited,42,Low Risk,1202355,271180.06,22.55%,20.00%,4.0,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000080,Tech Fin Limited,43,Low Risk,564159,104580.55,18.54%,14.29%,11.2,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000081,Tata Power Limited,61,Medium Risk,469613,127459.51,27.14%,42.86%,49.3,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000082,Reliance Power Limited,49,Low Risk,4836743,741322.78,15.33%,20.00%,21.0,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000083,Infosys Power Limited,51,Medium Risk,5268597,1370833.16,26.02%,37.50%,12.3,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000084,Bharti Power Limited,68,Medium Risk,372470,194914.54,52.33%,60.00%,25.0,5,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000085,HDFC Power Limited,27,Low Risk,176091844,2496163.38,1.42%,0.00%,13.0,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000086,Wipro Power Limited,52,Medium Risk,9036550,1678607.40,18.58%,42.86%,15.0,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000087,Mahindra Power Limited,38,Low Risk,954334,150714.79,15.79%,0.00%,30.0,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000088,Birla Power Limited,35,Low Risk,1621144,0.00,0.00%,0.00%,34.3,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000089,Adani Power Limited,57,Medium Risk,418100,189614.15,45.35%,25.00%,23.4,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000090,JSW Power Limited,28,Low Risk,668670,0.00,0.00%,0.00%,16.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000091,Godrej Power Limited,53,Medium Risk,767104,178001.21,23.20%,33.33%,21.0,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000092,L&T Power Limited,41,Low Risk,1356565,173935.67,12.82%,0.00%,16.0,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000093,ICICI Power Limited,40,Low Risk,44320789,6330801.88,14.28%,28.57%,0.0,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000094,SBI Power Limited,41,Low Risk,8160398,1674122.91,20.52%,28.57%,0.0,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000095,TCS Power Limited,28,Low Risk,709186,0.00,0.00%,0.00%,16.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000096,Bajaj Power Limited,63,Medium Risk,434237,316119.26,72.80%,37.50%,17.7,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000097,HCL Power Limited,42,Low Risk,8478775,158044.45,1.86%,25.00%,95.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000098,Hindustan Power Limited,28,Low Risk,2394636,0.00,0.00%,0.00%,15.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000099,Indian Power Limited,30,Low Risk,886464,185611.15,20.94%,25.00%,0.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000100,Tech Power Limited,45,Low Risk,826574,254784.92,30.82%,0.00%,17.5,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000101,Tata Steel Limited,38,Low Risk,910482,115665.63,12.70%,33.33%,14.5,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000102,Reliance Steel Limited,41,Low Risk,486727,18457.67,3.79%,20.00%,37.5,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000103,Infosys Steel Limited,37,Low Risk,108534142,0.00,0.00%,0.00%,13.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000104,Bharti Steel Limited,41,Low Risk,37349176,2493848.97,6.68%,12.50%,12.5,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000105,HDFC Steel Limited,47,Low Risk,169970,15919.31,9.37%,0.00%,45.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000106,Wipro Steel Limited,61,Medium Risk,10845881,1992766.71,18.37%,50.00%,40.5,4,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000107,Mahindra Steel Limited,35,Low Risk,4446446,0.00,0.00%,0.00%,10.4,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000108,Birla Steel Limited,28,Low Risk,43321608,1444629.09,3.33%,0.00%,14.3,8,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000109,Adani Steel Limited,46,Low Risk,661346,167454.73,25.32%,25.00%,60.5,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000110,JSW Steel Limited,38,Low Risk,21229106,3247361.70,15.30%,0.00%,39.0,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000111,Godrej Steel Limited,45,Low Risk,5051393,1182521.93,23.41%,28.57%,5.7,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000112,L&T Steel Limited,61,Medium Risk,3465374,1412309.41,40.75%,33.33%,45.5,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000113,ICICI Steel Limited,30,Low Risk,7074272,560821.75,7.93%,25.00%,3.5,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000114,SBI Steel Limited,41,Low Risk,5226913,392655.23,7.51%,16.67%,40.4,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000115,TCS Steel Limited,41,Low Risk,879920,162307.45,18.45%,40.00%,14.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000116,Bajaj Steel Limited,54,Medium Risk,710763,204037.72,28.71%,37.50%,18.2,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000117,HCL Steel Limited,48,Low Risk,9822620,725955.36,7.39%,66.67%,0.0,3,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000118,Hindustan Steel Limited,41,Low Risk,2892468,1016274.78,35.14%,14.29%,21.3,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000119,Indian Steel Limited,44,Low Risk,25093292,456435.16,1.82%,25.00%,15.7,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000120,Tech Steel Limited,66,Medium Risk,538657,191916.11,35.63%,57.14%,46.3,7,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000121,Tata Textiles Limited,48,Low Risk,380598,117274.32,30.81%,28.57%,8.4,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000122,Reliance Textiles Limited,36,Low Risk,28338995,1624743.88,5.73%,0.00%,34.8,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000123,Infosys Textiles Limited,69,Medium Risk,1042132,875905.86,84.05%,28.57%,37.3,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000124,Bharti Textiles Limited,55,Medium Risk,559189,77048.80,13.78%,28.57%,36.8,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000125,HDFC Textiles Limited,44,Low Risk,493642,29435.19,5.96%,25.00%,13.3,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000126,Wipro Textiles Limited,30,Low Risk,632021,0.00,0.00%,0.00%,19.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000127,Mahindra Textiles Limited,63,Medium Risk,171073,171963.89,100.52%,33.33%,57.3,6,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000128,Birla Textiles Limited,46,Low Risk,2996624,391099.39,13.05%,16.67%,19.2,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000129,Adani Textiles Limited,53,Medium Risk,43755966,3951143.38,9.03%,25.00%,46.8,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000130,JSW Textiles Limited,55,Medium Risk,710643,172844.64,24.32%,60.00%,101.0,5,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000131,Godrej Textiles Limited,71,Medium Risk,219156,470680.01,214.77%,50.00%,16.7,8,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000132,L&T Textiles Limited,52,Medium Risk,520873,207858.18,39.91%,37.50%,40.3,8,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000133,ICICI Textiles Limited,23,Minimal Risk,9064101,593904.58,6.55%,0.00%,4.0,6,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000134,SBI Textiles Limited,52,Medium Risk,105513954,3166873.98,3.00%,66.67%,45.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000135,TCS Textiles Limited,47,Low Risk,970332,167518.62,17.26%,12.50%,21.6,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000136,Bajaj Textiles Limited,40,Low Risk,804452,117476.09,14.60%,0.00%,13.8,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000137,HCL Textiles Limited,33,Low Risk,437720,108658.55,24.82%,25.00%,3.5,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000138,Hindustan Textiles Limited,21,Minimal Risk,5036653,0.00,0.00%,0.00%,2.3,6,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000139,Indian Textiles Limited,57,Medium Risk,333421,238261.11,71.46%,42.86%,3.3,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000140,Tech Textiles Limited,53,Medium Risk,240462,145545.03,60.53%,33.33%,24.5,6,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000141,Tata Pharma Limited,47,Low Risk,112462,29892.00,26.58%,25.00%,39.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000142,Reliance Pharma Limited,29,Low Risk,806201,66408.48,8.24%,25.00%,2.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000143,Infosys Pharma Limited,45,Low Risk,19466141,2072428.21,10.65%,33.33%,43.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000144,Bharti Pharma Limited,58,Medium Risk,3788829,1147238.76,30.28%,28.57%,44.8,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000145,HDFC Pharma Limited,46,Low Risk,4282189,919011.59,21.46%,28.57%,43.5,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000146,Wipro Pharma Limited,46,Low Risk,9214526,484368.49,5.26%,12.50%,23.7,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000147,Mahindra Pharma Limited,35,Low Risk,39881435,1401973.08,3.52%,20.00%,19.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000148,Birla Pharma Limited,41,Low Risk,7896141,438275.49,5.55%,20.00%,33.5,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000149,Adani Pharma Limited,39,Low Risk,9773883,1108400.10,11.34%,66.67%,0.0,3,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000150,JSW Pharma Limited,35,Low Risk,13130546,0.00,0.00%,0.00%,10.3,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000151,Godrej Pharma Limited,43,Low Risk,2519737,970480.37,38.52%,16.67%,21.3,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000152,L&T Pharma Limited,43,Low Risk,2953090,491030.95,16.63%,20.00%,42.8,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000153,ICICI Pharma Limited,58,Medium Risk,26468857,3268370.23,12.35%,42.86%,64.0,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000154,SBI Pharma Limited,22,Minimal Risk,884008,97505.79,11.03%,0.00%,0.0,4,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000155,TCS Pharma Limited,29,Low Risk,987004,0.00,0.00%,0.00%,18.3,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000156,Bajaj Pharma Limited,70,Medium Risk,113904,127676.54,112.09%,20.00%,43.0,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000157,HCL Pharma Limited,44,Low Risk,1810628,395328.78,21.83%,33.33%,22.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000158,Hindustan Pharma Limited,40,Low Risk,44689971,1439085.40,3.22%,16.67%,42.8,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000159,Indian Pharma Limited,63,Medium Risk,2671281,1192082.71,44.63%,50.00%,24.0,6,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000160,Tech Pharma Limited,41,Low Risk,398127,364544.94,91.56%,12.50%,0.0,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000161,Tata Healthcare Limited,43,Low Risk,19003814,2909456.97,15.31%,14.29%,13.0,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000162,Reliance Healthcare Limited,40,Low Risk,42681934,4049015.59,9.49%,33.33%,0.0,3,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000163,Infosys Healthcare Limited,49,Low Risk,6335009,1742262.54,27.50%,33.33%,49.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000164,Bharti Healthcare Limited,35,Low Risk,13144670,0.00,0.00%,0.00%,37.7,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000165,HDFC Healthcare Limited,42,Low Risk,763454,214277.32,28.07%,25.00%,20.0,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000166,Wipro Healthcare Limited,44,Low Risk,30267633,4596721.83,15.19%,40.00%,1.0,5,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000167,Mahindra Healthcare Limited,59,Medium Risk,10417309,2230296.42,21.41%,40.00%,47.7,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000168,Birla Healthcare Limited,46,Low Risk,423862,139647.48,32.95%,20.00%,28.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000169,Adani Healthcare Limited,30,Low Risk,914678,93500.42,10.22%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000170,JSW Healthcare Limited,42,Low Risk,7465327,741607.99,9.93%,20.00%,50.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000171,Godrej Healthcare Limited,39,Low Risk,904976,83682.96,9.25%,66.67%,0.0,3,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000172,L&T Healthcare Limited,30,Low Risk,9692348,865212.84,8.93%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000173,ICICI Healthcare Limited,54,Medium Risk,7176563,1997676.21,27.84%,71.43%,1.5,7,5,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000174,SBI Healthcare Limited,46,Low Risk,28576381,1606313.07,5.62%,40.00%,9.7,5,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000175,TCS Healthcare Limited,39,Low Risk,161087023,5048685.22,3.13%,14.29%,57.5,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000176,Bajaj Healthcare Limited,42,Low Risk,359808,50955.44,14.16%,0.00%,19.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000177,HCL Healthcare Limited,63,Medium Risk,185975425,10599679.03,5.70%,75.00%,27.0,4,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000178,Hindustan Healthcare Limited,42,Low Risk,581573,107419.96,18.47%,42.86%,14.3,7,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000179,Indian Healthcare Limited,46,Low Risk,9721808,971150.45,9.99%,37.50%,47.0,8,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000180,Tech Healthcare Limited,36,Low Risk,406373,24453.31,6.02%,0.00%,9.3,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000181,Tata Retail Limited,35,Low Risk,7695995,0.00,0.00%,0.00%,49.8,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000182,Reliance Retail Limited,47,Low Risk,311420,134413.57,43.16%,33.33%,0.0,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000183,Infosys Retail Limited,45,Low Risk,5021423,709322.55,14.13%,20.00%,14.3,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000184,Bharti Retail Limited,50,Medium Risk,46017449,2263519.84,4.92%,14.29%,48.4,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000185,HDFC Retail Limited,47,Low Risk,563602,230361.47,40.87%,33.33%,0.0,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000186,Wipro Retail Limited,58,Medium Risk,573664,204585.22,35.66%,25.00%,48.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000187,Mahindra Retail Limited,32,Low Risk,3546465,982353.55,27.70%,12.50%,6.5,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000188,Birla Retail Limited,53,Medium Risk,466770,270023.42,57.85%,12.50%,17.3,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000189,Adani Retail Limited,52,Medium Risk,243773,128630.38,52.77%,33.33%,26.0,6,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000190,JSW Retail Limited,50,Medium Risk,31299831,1858267.99,5.94%,16.67%,42.6,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000191,Godrej Retail Limited,38,Low Risk,618145,22834.44,3.69%,25.00%,2.0,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000192,L&T Retail Limited,66,Medium Risk,782363,266093.33,34.01%,57.14%,50.5,7,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000193,ICICI Retail Limited,35,Low Risk,195635656,1806431.74,0.92%,0.00%,64.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000194,SBI Retail Limited,52,Medium Risk,3633001,1056810.35,29.09%,42.86%,30.3,7,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000195,TCS Retail Limited,49,Low Risk,2074655,703231.07,33.90%,28.57%,37.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000196,Bajaj Retail Limited,44,Low Risk,874141,173018.58,19.79%,14.29%,12.3,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000197,HCL Retail Limited,38,Low Risk,46611732,1626018.26,3.49%,25.00%,1.7,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000198,Hindustan Retail Limited,33,Low Risk,22883668,1747555.01,7.64%,42.86%,1.3,7,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000199,Indian Retail Limited,55,Medium Risk,339514,77056.24,22.70%,28.57%,27.4,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000200,Tech Retail Limited,42,Low Risk,274717,113940.74,41.48%,0.00%,28.3,8,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000201,Tata Media Limited,58,Medium Risk,33157073,4526723.10,13.65%,40.00%,46.0,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000202,Reliance Media Limited,48,Low Risk,21716845,4390675.36,20.22%,37.50%,34.0,8,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000203,Infosys Media Limited,25,Low Risk,788550,62597.65,7.94%,0.00%,6.3,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000204,Bharti Media Limited,44,Low Risk,47385303,4723857.34,9.97%,50.00%,19.0,6,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000205,HDFC Media Limited,41,Low Risk,730827,147903.07,20.24%,25.00%,21.2,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000206,Wipro Media Limited,57,Medium Risk,226922,120247.64,52.99%,66.67%,0.0,3,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000207,Mahindra Media Limited,40,Low Risk,6397114,524503.77,8.20%,12.50%,29.9,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000208,Birla Media Limited,41,Low Risk,2276619,247409.14,10.87%,14.29%,62.8,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000209,Adani Media Limited,43,Low Risk,6571948,280343.37,4.27%,50.00%,0.0,4,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000210,JSW Media Limited,41,Low Risk,5951070,842314.28,14.15%,40.00%,15.7,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000211,Godrej Media Limited,56,Medium Risk,5515120,1066375.90,19.34%,42.86%,23.0,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000212,L&T Media Limited,36,Low Risk,6329807,179920.20,2.84%,20.00%,21.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000213,ICICI Media Limited,45,Low Risk,24155216,4276385.68,17.70%,28.57%,28.3,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000214,SBI Media Limited,49,Low Risk,3470708,957946.24,27.60%,33.33%,33.3,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000215,TCS Media Limited,39,Low Risk,5287184,85969.50,1.63%,14.29%,61.0,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000216,Bajaj Media Limited,42,Low Risk,1702036,1251399.58,73.52%,16.67%,7.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000217,HCL Media Limited,46,Low Risk,31183605,920630.06,2.95%,0.00%,44.0,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000218,Hindustan Media Limited,61,Medium Risk,739033,120336.76,16.28%,60.00%,24.5,5,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000219,Indian Media Limited,38,Low Risk,777005,106058.48,13.65%,12.50%,3.7,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000220,Tech Media Limited,50,Medium Risk,3967782,728416.06,18.36%,16.67%,24.5,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000221,Tata Telecom Limited,57,Medium Risk,4254606,1498476.68,35.22%,80.00%,0.0,5,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000222,Reliance Telecom Limited,30,Low Risk,18883026,1808890.46,9.58%,25.00%,3.3,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000223,Infosys Telecom Limited,40,Low Risk,49535717,1940946.84,3.92%,25.00%,25.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000224,Bharti Telecom Limited,32,Low Risk,87612509,3983026.34,4.55%,12.50%,15.0,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000225,HDFC Telecom Limited,40,Low Risk,485399,114023.10,23.49%,0.00%,34.0,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000226,Wipro Telecom Limited,43,Low Risk,4316295,1812879.84,42.00%,57.14%,0.0,7,4,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000227,Mahindra Telecom Limited,42,Low Risk,86116714,2807229.33,3.26%,25.00%,64.8,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000228,Birla Telecom Limited,52,Medium Risk,356623,264804.82,74.25%,25.00%,2.5,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000229,Adani Telecom Limited,53,Medium Risk,231574,237002.90,102.34%,50.00%,0.0,4,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000230,JSW Telecom Limited,28,Low Risk,759935,0.00,0.00%,0.00%,16.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000231,Godrej Telecom Limited,42,Low Risk,67136492,3938841.13,5.87%,25.00%,39.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000232,L&T Telecom Limited,46,Low Risk,9449533,86965.73,0.92%,16.67%,23.2,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000233,ICICI Telecom Limited,43,Low Risk,7094253,1188840.39,16.76%,20.00%,54.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000234,SBI Telecom Limited,42,Low Risk,9979926,222125.71,2.23%,25.00%,30.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000235,TCS Telecom Limited,37,Low Risk,40442188,0.00,0.00%,0.00%,14.0,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000236,Bajaj Telecom Limited,34,Low Risk,22810795,2343420.30,10.27%,33.33%,8.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000237,HCL Telecom Limited,35,Low Risk,106073364,11454185.68,10.80%,0.00%,25.3,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000238,Hindustan Telecom Limited,53,Medium Risk,32512638,1171651.94,3.60%,28.57%,30.8,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000239,Indian Telecom Limited,40,Low Risk,43543335,1341187.92,3.08%,20.00%,9.3,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000240,Tech Telecom Limited,49,Low Risk,1886641,645284.21,34.20%,20.00%,14.3,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000241,Tata Software Limited,51,Medium Risk,7266891,483083.44,6.65%,66.67%,27.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000242,Reliance Software Limited,46,Low Risk,4818530,303472.54,6.30%,0.00%,38.9,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000243,Infosys Software Limited,51,Medium Risk,822401,208823.04,25.39%,42.86%,11.0,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000244,Bharti Software Limited,33,Low Risk,8552449,1426038.73,16.67%,0.00%,0.0,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000245,HDFC Software Limited,32,Low Risk,388097,234701.35,60.47%,0.00%,0.7,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000246,Wipro Software Limited,56,Medium Risk,829377,328104.76,39.56%,50.00%,12.0,8,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000247,Mahindra Software Limited,49,Low Risk,9502573,353830.49,3.72%,14.29%,75.0,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000248,Birla Software Limited,45,Low Risk,24927056,0.00,0.00%,0.00%,40.9,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000249,Adani Software Limited,47,Low Risk,3143258,1233048.82,39.23%,0.00%,18.3,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000250,JSW Software Limited,62,Medium Risk,820300,246764.13,30.08%,42.86%,33.7,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000251,Godrej Software Limited,45,Low Risk,5719896,783334.41,13.69%,28.57%,47.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000252,L&T Software Limited,35,Low Risk,17928429,0.00,0.00%,0.00%,32.3,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000253,ICICI Software Limited,54,Medium Risk,488604,57179.74,11.70%,25.00%,40.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000254,SBI Software Limited,56,Medium Risk,2625377,877266.68,33.41%,40.00%,19.0,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000255,TCS Software Limited,51,Medium Risk,862029,53019.22,6.15%,20.00%,31.7,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000256,Bajaj Software Limited,51,Medium Risk,898733,405116.70,45.08%,71.43%,9.0,7,5,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000257,HCL Software Limited,50,Medium Risk,78613138,2198913.22,2.80%,16.67%,37.0,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000258,Hindustan Software Limited,39,Low Risk,3993184,879829.28,22.03%,16.67%,1.8,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000259,Indian Software Limited,35,Low Risk,9564355,0.00,0.00%,0.00%,43.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000260,Tech Software Limited,50,Medium Risk,691269,72334.64,10.46%,12.50%,38.3,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000261,Tata Hardware Limited,56,Medium Risk,968643,123628.04,12.76%,33.33%,43.0,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000262,Reliance Hardware Limited,36,Low Risk,9199870,331604.25,3.60%,0.00%,40.3,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000263,Infosys Hardware Limited,53,Medium Risk,19157973,2996422.84,15.64%,20.00%,39.0,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000264,Bharti Hardware Limited,27,Low Risk,4283540,162276.59,3.79%,0.00%,12.0,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000265,HDFC Hardware Limited,54,Medium Risk,616303,83709.66,13.58%,25.00%,59.3,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000266,Wipro Hardware Limited,51,Medium Risk,954551,58389.66,6.12%,20.00%,34.0,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000267,Mahindra Hardware Limited,46,Low Risk,252115,259912.08,103.09%,0.00%,12.0,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000268,Birla Hardware Limited,41,Low Risk,45639255,3200822.30,7.01%,16.67%,77.8,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000269,Adani Hardware Limited,58,Medium Risk,1591509,865642.58,54.39%,66.67%,0.0,3,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000270,JSW Hardware Limited,65,Medium Risk,154480,151361.29,97.98%,40.00%,42.0,5,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000271,Godrej Hardware Limited,37,Low Risk,8031940,628271.44,7.82%,28.57%,15.6,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000272,L&T Hardware Limited,78,High Risk,1200531,1244110.92,103.63%,50.00%,38.0,6,3,Yes,No,Credit Hold / Advance Payment,2025-04-15
+CUST000273,ICICI Hardware Limited,45,Low Risk,1597764,0.00,0.00%,0.00%,39.9,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000274,SBI Hardware Limited,29,Low Risk,40023173,2131146.91,5.32%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000275,TCS Hardware Limited,35,Low Risk,8929596,725012.36,8.12%,0.00%,26.5,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000276,Bajaj Hardware Limited,48,Low Risk,10021174,4647249.63,46.37%,16.67%,40.7,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000277,HCL Hardware Limited,63,Medium Risk,504983,297416.89,58.90%,37.50%,23.5,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000278,Hindustan Hardware Limited,39,Low Risk,46522934,1928697.24,4.15%,20.00%,26.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000279,Indian Hardware Limited,47,Low Risk,2366858,376914.93,15.92%,33.33%,51.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000280,Tech Hardware Limited,25,Low Risk,222615,56942.66,25.58%,0.00%,0.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000281,Tata Food Limited,30,Low Risk,7348010,533765.80,7.26%,33.33%,1.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000282,Reliance Food Limited,74,Medium Risk,267521,373721.76,139.70%,57.14%,19.0,7,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000283,Infosys Food Limited,30,Low Risk,735802,192216.52,26.12%,20.00%,0.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000284,Bharti Food Limited,32,Low Risk,562495,57580.34,10.24%,0.00%,19.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000285,HDFC Food Limited,47,Low Risk,735212,302493.10,41.14%,33.33%,0.0,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000286,Wipro Food Limited,40,Low Risk,388293,0.00,0.00%,0.00%,19.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000287,Mahindra Food Limited,51,Medium Risk,49693381,3299867.63,6.64%,60.00%,60.0,5,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000288,Birla Food Limited,28,Low Risk,5333238,547651.45,10.27%,25.00%,0.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000289,Adani Food Limited,57,Medium Risk,599880,293820.16,48.98%,50.00%,33.5,6,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000290,JSW Food Limited,36,Low Risk,30547678,1183528.72,3.87%,0.00%,60.5,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000291,Godrej Food Limited,40,Low Risk,2151846,524576.62,24.38%,0.00%,51.1,8,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000292,L&T Food Limited,39,Low Risk,7019825,384324.09,5.47%,33.33%,0.0,3,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000293,ICICI Food Limited,61,Medium Risk,1876729,1079621.58,57.53%,37.50%,19.8,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000294,SBI Food Limited,29,Low Risk,38129727,434217.00,1.14%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000295,TCS Food Limited,45,Low Risk,4029413,781615.45,19.40%,25.00%,56.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000296,Bajaj Food Limited,34,Low Risk,9728354,931890.76,9.58%,33.33%,6.8,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000297,HCL Food Limited,51,Medium Risk,502537,158201.77,31.48%,40.00%,9.5,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000298,Hindustan Food Limited,56,Medium Risk,183742,179512.93,97.70%,25.00%,0.0,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000299,Indian Food Limited,38,Low Risk,895407,104151.78,11.63%,28.57%,17.6,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000300,Tech Food Limited,48,Low Risk,48779956,1940398.30,3.98%,50.00%,62.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000301,Tata Agro Limited,44,Low Risk,33391289,2641289.84,7.91%,0.00%,25.5,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000302,Reliance Agro Limited,51,Medium Risk,275453,154563.88,56.11%,42.86%,18.3,7,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000303,Infosys Agro Limited,49,Low Risk,1939263,572625.86,29.53%,33.33%,43.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000304,Bharti Agro Limited,47,Low Risk,1342115,858118.80,63.94%,0.00%,9.0,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000305,HDFC Agro Limited,25,Low Risk,8273650,334153.80,4.04%,12.50%,2.3,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000306,Wipro Agro Limited,46,Low Risk,382922,115859.14,30.26%,20.00%,41.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000307,Mahindra Agro Limited,28,Low Risk,23833476,1518987.04,6.37%,0.00%,14.0,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000308,Birla Agro Limited,47,Low Risk,885631,28341.00,3.20%,25.00%,20.0,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000309,Adani Agro Limited,31,Low Risk,5705080,827737.37,14.51%,33.33%,0.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000310,JSW Agro Limited,23,Minimal Risk,1958609,0.00,0.00%,0.00%,6.7,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000311,Godrej Agro Limited,28,Low Risk,963120,0.00,0.00%,0.00%,15.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000312,L&T Agro Limited,36,Low Risk,182236897,5516093.14,3.03%,0.00%,43.4,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000313,ICICI Agro Limited,45,Low Risk,4347748,838475.49,19.29%,37.50%,24.2,8,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000314,SBI Agro Limited,39,Low Risk,33097947,2183748.83,6.60%,20.00%,25.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000315,TCS Agro Limited,55,Medium Risk,739117,128496.88,17.39%,25.00%,44.7,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000316,Bajaj Agro Limited,43,Low Risk,5972937,356485.22,5.97%,0.00%,22.7,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000317,HCL Agro Limited,35,Low Risk,8632069,0.00,0.00%,0.00%,53.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000318,Hindustan Agro Limited,60,Medium Risk,4015988,1198561.37,29.84%,42.86%,26.3,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000319,Indian Agro Limited,47,Low Risk,43847723,4448031.36,10.14%,40.00%,54.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000320,Tech Agro Limited,53,Medium Risk,7972097,640967.84,8.04%,25.00%,31.2,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000321,Tata Resources Limited,45,Low Risk,512598,73565.38,14.35%,50.00%,0.0,4,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000322,Reliance Resources Limited,48,Low Risk,2301068,449522.54,19.54%,0.00%,29.2,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000323,Infosys Resources Limited,38,Low Risk,17895853,1457805.32,8.15%,0.00%,12.2,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000324,Bharti Resources Limited,48,Low Risk,199963,229328.75,114.69%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000325,HDFC Resources Limited,35,Low Risk,649954,78207.37,12.03%,50.00%,0.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000326,Wipro Resources Limited,25,Low Risk,9811693,0.00,0.00%,0.00%,10.8,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000327,Mahindra Resources Limited,68,Medium Risk,140078,170543.74,121.75%,50.00%,40.3,8,4,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000328,Birla Resources Limited,35,Low Risk,2386229,0.00,0.00%,0.00%,66.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000329,Adani Resources Limited,46,Low Risk,41969757,1205450.53,2.87%,0.00%,61.5,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000330,JSW Resources Limited,29,Low Risk,7995905,483477.02,6.05%,20.00%,4.7,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000331,Godrej Resources Limited,47,Low Risk,472285,50618.98,10.72%,40.00%,67.7,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000332,L&T Resources Limited,53,Medium Risk,3094124,273347.17,8.83%,25.00%,60.3,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000333,ICICI Resources Limited,44,Low Risk,3781465,1093172.51,28.91%,12.50%,35.2,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000334,SBI Resources Limited,49,Low Risk,4338745,119274.09,2.75%,12.50%,41.3,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000335,TCS Resources Limited,37,Low Risk,21489267,1162604.47,5.41%,25.00%,0.3,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000336,Bajaj Resources Limited,34,Low Risk,871612,111884.97,12.84%,0.00%,23.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000337,HCL Resources Limited,26,Low Risk,5927643,607586.62,10.25%,0.00%,7.0,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000338,Hindustan Resources Limited,60,Medium Risk,8791484,990150.44,11.26%,50.00%,64.0,4,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000339,Indian Resources Limited,20,Minimal Risk,22105445,229302.65,1.04%,0.00%,0.0,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000340,Tech Resources Limited,37,Low Risk,4386177,1035523.36,23.61%,25.00%,12.8,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000341,Tata Chemicals Limited,55,Medium Risk,3672315,2228421.29,60.68%,50.00%,0.0,8,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000342,Reliance Chemicals Limited,52,Medium Risk,6013776,1408370.91,23.42%,50.00%,53.5,6,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000343,Infosys Chemicals Limited,49,Low Risk,8779510,365471.90,4.16%,14.29%,40.3,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000344,Bharti Chemicals Limited,40,Low Risk,494187,211065.67,42.71%,0.00%,3.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000345,HDFC Chemicals Limited,41,Low Risk,4878442,141676.22,2.90%,25.00%,29.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000346,Wipro Chemicals Limited,40,Low Risk,29111032,3310235.44,11.37%,25.00%,2.0,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000347,Mahindra Chemicals Limited,27,Low Risk,8606425,0.00,0.00%,0.00%,14.3,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000348,Birla Chemicals Limited,42,Low Risk,704958,96361.60,13.67%,20.00%,8.8,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000349,Adani Chemicals Limited,54,Medium Risk,319937,100646.58,31.46%,50.00%,126.0,4,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000350,JSW Chemicals Limited,33,Low Risk,6833699,923137.94,13.51%,40.00%,0.5,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000351,Godrej Chemicals Limited,61,Medium Risk,37342851,5745531.61,15.39%,50.00%,36.7,6,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000352,L&T Chemicals Limited,43,Low Risk,40332326,1511271.98,3.75%,28.57%,60.5,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000353,ICICI Chemicals Limited,52,Medium Risk,7051523,1459589.80,20.70%,12.50%,33.7,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000354,SBI Chemicals Limited,33,Low Risk,641763,0.00,0.00%,0.00%,6.8,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000355,TCS Chemicals Limited,52,Medium Risk,9690370,410451.69,4.24%,25.00%,81.0,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000356,Bajaj Chemicals Limited,68,Medium Risk,267190,184032.78,68.88%,37.50%,38.6,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000357,HCL Chemicals Limited,27,Low Risk,234545,0.00,0.00%,0.00%,14.8,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000358,Hindustan Chemicals Limited,31,Low Risk,563677,99787.29,17.70%,25.00%,2.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000359,Indian Chemicals Limited,41,Low Risk,49374605,1887174.51,3.82%,20.00%,35.8,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000360,Tech Chemicals Limited,53,Medium Risk,274734,273216.15,99.45%,12.50%,20.3,8,1,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000361,Tata Logistics Limited,44,Low Risk,142217201,4529934.18,3.19%,33.33%,38.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000362,Reliance Logistics Limited,37,Low Risk,37767091,3514589.47,9.31%,20.00%,0.0,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000363,Infosys Logistics Limited,49,Low Risk,7825015,837607.82,10.70%,66.67%,0.0,3,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000364,Bharti Logistics Limited,56,Medium Risk,342268,263719.91,77.05%,0.00%,21.7,7,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000365,HDFC Logistics Limited,46,Low Risk,814090,139941.60,17.19%,28.57%,11.5,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000366,Wipro Logistics Limited,47,Low Risk,190371266,2809559.59,1.48%,14.29%,25.6,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000367,Mahindra Logistics Limited,51,Medium Risk,4710735,250587.44,5.32%,20.00%,54.8,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000368,Birla Logistics Limited,47,Low Risk,928834,133251.86,14.35%,14.29%,21.3,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000369,Adani Logistics Limited,46,Low Risk,7257723,292773.89,4.03%,14.29%,23.5,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000370,JSW Logistics Limited,47,Low Risk,471684,230466.59,48.86%,12.50%,7.7,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000371,Godrej Logistics Limited,39,Low Risk,831050,106833.09,12.86%,28.57%,18.6,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000372,L&T Logistics Limited,42,Low Risk,7566883,251713.28,3.33%,0.00%,22.0,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000373,ICICI Logistics Limited,30,Low Risk,7375203,457452.90,6.20%,33.33%,1.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000374,SBI Logistics Limited,33,Low Risk,800203,228904.02,28.61%,28.57%,0.5,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000375,TCS Logistics Limited,56,Medium Risk,6723264,864945.98,12.86%,33.33%,32.7,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000376,Bajaj Logistics Limited,28,Low Risk,150563891,924251.72,0.61%,0.00%,15.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000377,HCL Logistics Limited,51,Medium Risk,6833974,437030.46,6.39%,20.00%,38.5,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000378,Hindustan Logistics Limited,46,Low Risk,28141730,2257272.53,8.02%,14.29%,22.0,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000379,Indian Logistics Limited,36,Low Risk,9369075,506472.82,5.41%,20.00%,20.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000380,Tech Logistics Limited,43,Low Risk,690054,179902.29,26.07%,25.00%,22.8,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000381,Tata Infrastructure Limited,40,Low Risk,2751950,593957.84,21.58%,16.67%,2.7,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000382,Reliance Infrastructure Limited,56,Medium Risk,3173637,1030195.71,32.46%,60.00%,30.0,5,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000383,Infosys Infrastructure Limited,42,Low Risk,7265994,397398.33,5.47%,25.00%,107.5,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000384,Bharti Infrastructure Limited,29,Low Risk,30055727,6072938.91,20.21%,20.00%,0.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000385,HDFC Infrastructure Limited,22,Minimal Risk,4692966,555962.90,11.85%,0.00%,0.0,4,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000386,Wipro Infrastructure Limited,46,Low Risk,2097199,1167911.18,55.69%,28.57%,15.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000387,Mahindra Infrastructure Limited,29,Low Risk,136253259,12424022.63,9.12%,12.50%,8.4,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000388,Birla Infrastructure Limited,42,Low Risk,5796907,1865925.57,32.19%,50.00%,6.0,8,4,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000389,Adani Infrastructure Limited,56,Medium Risk,670250,138312.60,20.64%,66.67%,50.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000390,JSW Infrastructure Limited,35,Low Risk,44511160,3432856.43,7.71%,14.29%,20.4,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000391,Godrej Infrastructure Limited,35,Low Risk,2032826,117925.38,5.80%,33.33%,10.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000392,L&T Infrastructure Limited,30,Low Risk,918349,171980.96,18.73%,25.00%,0.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000393,ICICI Infrastructure Limited,32,Low Risk,163980292,0.00,0.00%,0.00%,23.2,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000394,SBI Infrastructure Limited,47,Low Risk,1598673,289616.31,18.12%,33.33%,54.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000395,TCS Infrastructure Limited,43,Low Risk,12811467,3839781.53,29.97%,0.00%,14.3,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000396,Bajaj Infrastructure Limited,35,Low Risk,8107728,403644.93,4.98%,25.00%,15.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000397,HCL Infrastructure Limited,36,Low Risk,42821324,909547.72,2.12%,16.67%,3.8,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000398,Hindustan Infrastructure Limited,42,Low Risk,2729410,444364.64,16.28%,42.86%,15.3,7,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000399,Indian Infrastructure Limited,45,Low Risk,1174500,543802.41,46.30%,12.50%,5.8,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000400,Tech Infrastructure Limited,28,Low Risk,17051433,775174.41,4.55%,16.67%,6.8,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000401,Tata Tech Enterprises,44,Low Risk,49259182,1154094.21,2.34%,14.29%,20.8,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000402,Reliance Tech Enterprises,39,Low Risk,558500,50325.17,9.01%,12.50%,8.4,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000403,Infosys Tech Enterprises,59,Medium Risk,219642,346265.55,157.65%,28.57%,24.0,7,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000404,Bharti Tech Enterprises,60,Medium Risk,6453218,1496092.73,23.18%,42.86%,46.3,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000405,HDFC Tech Enterprises,69,Medium Risk,336248,353488.81,105.13%,50.00%,12.0,6,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000406,Wipro Tech Enterprises,50,Medium Risk,793787,70737.84,8.91%,14.29%,45.4,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000407,Mahindra Tech Enterprises,48,Low Risk,301358,53146.97,17.64%,0.00%,29.7,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000408,Birla Tech Enterprises,71,Medium Risk,1809970,1690603.65,93.41%,28.57%,37.7,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000409,Adani Tech Enterprises,56,Medium Risk,2867777,712168.23,24.83%,40.00%,22.7,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000410,JSW Tech Enterprises,32,Low Risk,151957841,1759247.84,1.16%,33.33%,7.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000411,Godrej Tech Enterprises,44,Low Risk,282592,73866.16,26.14%,0.00%,18.2,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000412,L&T Tech Enterprises,43,Low Risk,5864578,0.00,0.00%,0.00%,26.0,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000413,ICICI Tech Enterprises,52,Medium Risk,737663,160018.63,21.69%,12.50%,45.8,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000414,SBI Tech Enterprises,38,Low Risk,2937602,0.00,0.00%,0.00%,15.5,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000415,TCS Tech Enterprises,45,Low Risk,17877155,0.00,0.00%,0.00%,62.8,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000416,Bajaj Tech Enterprises,42,Low Risk,641456,55027.79,8.58%,20.00%,53.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000417,HCL Tech Enterprises,48,Low Risk,461640,60247.30,13.05%,0.00%,85.5,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000418,Hindustan Tech Enterprises,35,Low Risk,240973,0.00,0.00%,0.00%,84.5,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000419,Indian Tech Enterprises,30,Low Risk,820393,18604.57,2.27%,25.00%,6.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000420,Tech Tech Enterprises,42,Low Risk,852410,125156.75,14.68%,14.29%,51.8,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000421,Tata Info Enterprises,44,Low Risk,5446798,202201.67,3.71%,16.67%,17.8,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000422,Reliance Info Enterprises,66,Medium Risk,1131722,1199456.39,105.99%,42.86%,10.7,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000423,Infosys Info Enterprises,40,Low Risk,32914913,3635312.92,11.04%,12.50%,68.7,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000424,Bharti Info Enterprises,55,Medium Risk,13994480,2541612.87,18.16%,25.00%,30.2,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000425,HDFC Info Enterprises,35,Low Risk,499479,74032.29,14.82%,25.00%,10.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000426,Wipro Info Enterprises,50,Medium Risk,9465771,891558.72,9.42%,12.50%,43.0,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000427,Mahindra Info Enterprises,37,Low Risk,364314,96848.59,26.58%,12.50%,16.7,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000428,Birla Info Enterprises,44,Low Risk,47775852,2598281.16,5.44%,33.33%,54.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000429,Adani Info Enterprises,42,Low Risk,12128240,2007245.13,16.55%,20.00%,27.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000430,JSW Info Enterprises,31,Low Risk,43260072,1262553.57,2.92%,40.00%,0.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000431,Godrej Info Enterprises,35,Low Risk,35891533,0.00,0.00%,0.00%,32.4,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000432,L&T Info Enterprises,46,Low Risk,18943989,2418655.27,12.77%,0.00%,26.8,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000433,ICICI Info Enterprises,31,Low Risk,8180287,370486.96,4.53%,0.00%,21.0,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000434,SBI Info Enterprises,23,Minimal Risk,33199915,2275168.92,6.85%,0.00%,3.4,8,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000435,TCS Info Enterprises,37,Low Risk,2099388,876078.71,41.73%,33.33%,0.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000436,Bajaj Info Enterprises,31,Low Risk,2085215,73543.32,3.53%,0.00%,1.5,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000437,HCL Info Enterprises,42,Low Risk,9424958,215712.96,2.29%,25.00%,30.3,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000438,Hindustan Info Enterprises,50,Medium Risk,100388755,8548346.43,8.52%,12.50%,44.4,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000439,Indian Info Enterprises,35,Low Risk,906631,18463.48,2.04%,0.00%,54.3,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000440,Tech Info Enterprises,60,Medium Risk,1649986,1269699.96,76.95%,60.00%,0.0,5,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000441,Tata Auto Enterprises,44,Low Risk,9752189,490364.22,5.03%,33.33%,55.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000442,Reliance Auto Enterprises,44,Low Risk,35114948,3857150.80,10.98%,37.50%,4.7,8,3,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000443,Infosys Auto Enterprises,30,Low Risk,5710809,456005.00,7.98%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000444,Bharti Auto Enterprises,75,High Risk,168094,201697.27,119.99%,40.00%,34.3,5,2,Yes,No,Credit Hold / Advance Payment,2025-04-15
+CUST000445,HDFC Auto Enterprises,30,Low Risk,862906,100498.72,11.65%,25.00%,2.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000446,Wipro Auto Enterprises,48,Low Risk,7174353,1268532.83,17.68%,37.50%,49.2,8,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000447,Mahindra Auto Enterprises,48,Low Risk,4664277,666403.16,14.29%,0.00%,39.0,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000448,Birla Auto Enterprises,46,Low Risk,1736061,540562.65,31.14%,25.00%,27.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000449,Adani Auto Enterprises,49,Low Risk,4040231,358392.69,8.87%,33.33%,17.5,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000450,JSW Auto Enterprises,39,Low Risk,274769,0.00,0.00%,0.00%,18.6,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000451,Godrej Auto Enterprises,48,Low Risk,145188343,9596325.53,6.61%,28.57%,19.8,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000452,L&T Auto Enterprises,75,High Risk,1193788,1021822.00,85.59%,50.00%,62.3,6,3,Yes,No,Credit Hold / Advance Payment,2025-04-15
+CUST000453,ICICI Auto Enterprises,43,Low Risk,4079715,1507118.18,36.94%,12.50%,5.8,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000454,SBI Auto Enterprises,44,Low Risk,381003,139210.42,36.54%,25.00%,20.7,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000455,TCS Auto Enterprises,49,Low Risk,7155023,352147.30,4.92%,12.50%,40.2,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000456,Bajaj Auto Enterprises,43,Low Risk,7108021,1328695.08,18.69%,16.67%,34.5,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000457,HCL Auto Enterprises,60,Medium Risk,34344914,4049622.80,11.79%,50.00%,51.8,8,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000458,Hindustan Auto Enterprises,36,Low Risk,147509846,12584797.07,8.53%,14.29%,2.3,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000459,Indian Auto Enterprises,36,Low Risk,28118025,2004302.39,7.13%,0.00%,79.2,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000460,Tech Auto Enterprises,56,Medium Risk,727999,320535.89,44.03%,50.00%,73.0,6,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000461,Tata Fin Enterprises,41,Low Risk,2445209,621181.92,25.40%,16.67%,4.5,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000462,Reliance Fin Enterprises,38,Low Risk,8884193,1234460.96,13.90%,37.50%,10.8,8,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000463,Infosys Fin Enterprises,51,Medium Risk,968155,82759.03,8.55%,25.00%,26.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000464,Bharti Fin Enterprises,47,Low Risk,555742,140650.69,25.31%,50.00%,18.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000465,HDFC Fin Enterprises,32,Low Risk,6693211,849993.78,12.70%,16.67%,10.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000466,Wipro Fin Enterprises,36,Low Risk,1869582,550936.84,29.47%,0.00%,20.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000467,Mahindra Fin Enterprises,40,Low Risk,462811,40329.94,8.71%,12.50%,10.0,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000468,Birla Fin Enterprises,35,Low Risk,30287967,833811.11,2.75%,28.57%,14.2,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000469,Adani Fin Enterprises,48,Low Risk,322042,79838.84,24.79%,0.00%,27.0,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000470,JSW Fin Enterprises,45,Low Risk,8509416,687967.95,8.08%,33.33%,57.5,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000471,Godrej Fin Enterprises,28,Low Risk,7423544,484978.69,6.53%,14.29%,5.6,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000472,L&T Fin Enterprises,30,Low Risk,4661163,679014.62,14.57%,12.50%,7.2,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000473,ICICI Fin Enterprises,45,Low Risk,710425,128689.63,18.11%,25.00%,42.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000474,SBI Fin Enterprises,47,Low Risk,12800757,2922728.92,22.83%,42.86%,23.8,7,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000475,TCS Fin Enterprises,41,Low Risk,2248975,259342.32,11.53%,16.67%,33.6,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000476,Bajaj Fin Enterprises,64,Medium Risk,252847,319094.02,126.20%,37.50%,46.5,8,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000477,HCL Fin Enterprises,41,Low Risk,689918,78857.28,11.43%,33.33%,0.0,3,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000478,Hindustan Fin Enterprises,37,Low Risk,9981320,1047841.13,10.50%,28.57%,15.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000479,Indian Fin Enterprises,54,Medium Risk,44755271,1858307.71,4.15%,33.33%,38.3,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000480,Tech Fin Enterprises,41,Low Risk,410384,119498.14,29.12%,0.00%,9.8,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000481,Tata Power Enterprises,43,Low Risk,366021,33298.52,9.10%,25.00%,103.3,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000482,Reliance Power Enterprises,48,Low Risk,39305052,4706791.52,11.98%,12.50%,24.8,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000483,Infosys Power Enterprises,35,Low Risk,9141171,0.00,0.00%,0.00%,46.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000484,Bharti Power Enterprises,50,Medium Risk,6798463,927719.72,13.65%,50.00%,75.7,6,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000485,HDFC Power Enterprises,44,Low Risk,20479726,2018666.36,9.86%,25.00%,11.3,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000486,Wipro Power Enterprises,54,Medium Risk,13028101,5763149.24,44.24%,14.29%,24.0,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000487,Mahindra Power Enterprises,44,Low Risk,3729637,64243.44,1.72%,33.33%,56.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000488,Birla Power Enterprises,47,Low Risk,499651,58132.65,11.63%,25.00%,17.7,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000489,Adani Power Enterprises,37,Low Risk,1523880,851827.36,55.90%,16.67%,3.3,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000490,JSW Power Enterprises,41,Low Risk,929570,228299.74,24.56%,25.00%,0.6,8,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000491,Godrej Power Enterprises,46,Low Risk,4166400,1117482.23,26.82%,42.86%,0.0,7,3,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000492,L&T Power Enterprises,44,Low Risk,9643249,326640.91,3.39%,33.33%,38.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000493,ICICI Power Enterprises,44,Low Risk,5378227,2011585.74,37.40%,66.67%,0.0,6,4,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000494,SBI Power Enterprises,40,Low Risk,4887515,717618.61,14.68%,66.67%,0.0,3,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000495,TCS Power Enterprises,46,Low Risk,9926670,420265.80,4.23%,0.00%,63.0,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000496,Bajaj Power Enterprises,46,Low Risk,47835231,2128988.83,4.45%,40.00%,69.7,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000497,HCL Power Enterprises,41,Low Risk,5069396,536073.00,10.57%,14.29%,30.0,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000498,Hindustan Power Enterprises,32,Low Risk,320383,74026.53,23.11%,0.00%,14.8,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000499,Indian Power Enterprises,65,Medium Risk,717855,200741.57,27.96%,57.14%,71.7,7,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000500,Tech Power Enterprises,35,Low Risk,139955,40447.20,28.90%,0.00%,18.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000501,Tata Steel Enterprises,51,Medium Risk,8966894,1289908.48,14.39%,12.50%,51.4,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000502,Reliance Steel Enterprises,27,Low Risk,47060949,2527327.75,5.37%,25.00%,0.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000503,Infosys Steel Enterprises,35,Low Risk,20832623,292799.74,1.41%,0.00%,79.7,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000504,Bharti Steel Enterprises,22,Minimal Risk,8400177,1004561.97,11.96%,0.00%,0.0,5,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000505,HDFC Steel Enterprises,71,Medium Risk,1362217,923072.35,67.76%,50.00%,33.0,4,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000506,Wipro Steel Enterprises,50,Medium Risk,6160133,482451.31,7.83%,14.29%,38.5,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000507,Mahindra Steel Enterprises,53,Medium Risk,760122,330389.92,43.47%,37.50%,36.5,8,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000508,Birla Steel Enterprises,40,Low Risk,41311349,1431458.88,3.47%,16.67%,37.2,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000509,Adani Steel Enterprises,41,Low Risk,18714814,1991588.62,10.64%,14.29%,31.2,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000510,JSW Steel Enterprises,49,Low Risk,4299859,1389259.11,32.31%,50.00%,19.7,6,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000511,Godrej Steel Enterprises,41,Low Risk,1805495,399455.15,22.12%,0.00%,12.5,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000512,L&T Steel Enterprises,37,Low Risk,168788,55025.01,32.60%,0.00%,0.7,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000513,ICICI Steel Enterprises,52,Medium Risk,926779,82050.69,8.85%,40.00%,20.0,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000514,SBI Steel Enterprises,44,Low Risk,47480527,4588666.21,9.66%,28.57%,32.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000515,TCS Steel Enterprises,36,Low Risk,805469,36278.53,4.50%,25.00%,18.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000516,Bajaj Steel Enterprises,42,Low Risk,809432,92473.96,11.42%,20.00%,47.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000517,HCL Steel Enterprises,41,Low Risk,7324075,0.00,0.00%,0.00%,22.3,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000518,Hindustan Steel Enterprises,54,Medium Risk,62510044,2290699.21,3.66%,33.33%,31.0,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000519,Indian Steel Enterprises,53,Medium Risk,424697,153656.61,36.18%,42.86%,10.0,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000520,Tech Steel Enterprises,41,Low Risk,2489850,508146.41,20.41%,16.67%,4.8,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000521,Tata Textiles Enterprises,50,Medium Risk,451939,152454.45,33.73%,33.33%,117.0,3,1,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000522,Reliance Textiles Enterprises,53,Medium Risk,17823453,4007177.32,22.48%,33.33%,20.7,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000523,Infosys Textiles Enterprises,34,Low Risk,14649935,1118377.83,7.63%,20.00%,15.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000524,Bharti Textiles Enterprises,52,Medium Risk,8818602,919620.36,10.43%,60.00%,38.5,5,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000525,HDFC Textiles Enterprises,36,Low Risk,548837,35057.60,6.39%,50.00%,5.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000526,Wipro Textiles Enterprises,33,Low Risk,4140026,0.00,0.00%,0.00%,5.8,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000527,Mahindra Textiles Enterprises,23,Minimal Risk,7328575,929992.26,12.69%,0.00%,0.0,6,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000528,Birla Textiles Enterprises,52,Medium Risk,747918,81064.75,10.84%,20.00%,42.0,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000529,Adani Textiles Enterprises,54,Medium Risk,2117180,950127.04,44.88%,0.00%,43.8,7,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000530,JSW Textiles Enterprises,37,Low Risk,8271528,496543.61,6.00%,25.00%,0.0,8,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000531,Godrej Textiles Enterprises,44,Low Risk,751030,92026.74,12.25%,25.00%,59.8,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000532,L&T Textiles Enterprises,31,Low Risk,5617864,221977.00,3.95%,25.00%,8.3,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000533,ICICI Textiles Enterprises,35,Low Risk,726900,0.00,0.00%,0.00%,42.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000534,SBI Textiles Enterprises,36,Low Risk,8264227,572208.74,6.92%,0.00%,10.0,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000535,TCS Textiles Enterprises,44,Low Risk,41420688,1194434.62,2.88%,33.33%,110.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000536,Bajaj Textiles Enterprises,54,Medium Risk,168238,277253.23,164.80%,25.00%,16.0,4,1,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000537,HCL Textiles Enterprises,54,Medium Risk,8805357,194535.86,2.21%,33.33%,39.0,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000538,Hindustan Textiles Enterprises,35,Low Risk,6561790,0.00,0.00%,0.00%,33.8,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000539,Indian Textiles Enterprises,22,Minimal Risk,4894257,429172.93,8.77%,0.00%,0.0,5,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000540,Tech Textiles Enterprises,54,Medium Risk,354202,201394.19,56.86%,28.57%,67.3,7,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000541,Tata Pharma Enterprises,45,Low Risk,4761476,567427.42,11.92%,33.33%,8.0,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000542,Reliance Pharma Enterprises,57,Medium Risk,985151,169948.44,17.25%,33.33%,37.0,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000543,Infosys Pharma Enterprises,51,Medium Risk,1383125,644391.28,46.59%,25.00%,32.8,8,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000544,Bharti Pharma Enterprises,40,Low Risk,8124185,0.00,0.00%,0.00%,20.7,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000545,HDFC Pharma Enterprises,49,Low Risk,7615228,616415.09,8.09%,50.00%,52.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000546,Wipro Pharma Enterprises,40,Low Risk,4332492,779468.65,17.99%,66.67%,0.0,3,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000547,Mahindra Pharma Enterprises,53,Medium Risk,5536889,376528.19,6.80%,25.00%,53.3,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000548,Birla Pharma Enterprises,57,Medium Risk,244125,144855.09,59.34%,0.00%,78.0,5,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000549,Adani Pharma Enterprises,41,Low Risk,22335940,3909434.03,17.50%,20.00%,24.7,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000550,JSW Pharma Enterprises,57,Medium Risk,196131965,12595778.38,6.42%,42.86%,48.8,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000551,Godrej Pharma Enterprises,66,Medium Risk,225215,128904.57,57.24%,50.00%,24.0,6,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000552,L&T Pharma Enterprises,31,Low Risk,47573147,874485.78,1.84%,20.00%,11.8,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000553,ICICI Pharma Enterprises,44,Low Risk,5371960,344482.26,6.41%,66.67%,12.0,3,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000554,SBI Pharma Enterprises,44,Low Risk,45646314,3171217.62,6.95%,28.57%,56.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000555,TCS Pharma Enterprises,59,Medium Risk,2079722,907340.95,43.63%,20.00%,51.0,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000556,Bajaj Pharma Enterprises,47,Low Risk,2058134,1237981.92,60.15%,0.00%,10.0,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000557,HCL Pharma Enterprises,32,Low Risk,44402648,1215098.83,2.74%,25.00%,11.0,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000558,Hindustan Pharma Enterprises,48,Low Risk,6820650,932080.73,13.67%,40.00%,71.3,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000559,Indian Pharma Enterprises,46,Low Risk,921797,171745.48,18.63%,37.50%,6.6,8,3,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000560,Tech Pharma Enterprises,44,Low Risk,24251960,1858509.85,7.66%,16.67%,16.0,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000561,Tata Healthcare Enterprises,35,Low Risk,485797,116142.26,23.91%,0.00%,0.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000562,Reliance Healthcare Enterprises,26,Low Risk,6992580,395456.04,5.66%,0.00%,9.0,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000563,Infosys Healthcare Enterprises,68,Medium Risk,138758,145976.32,105.20%,50.00%,61.0,4,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000564,Bharti Healthcare Enterprises,48,Low Risk,47069719,3097933.52,6.58%,66.67%,0.0,3,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000565,HDFC Healthcare Enterprises,48,Low Risk,619164,102892.06,16.62%,20.00%,19.0,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000566,Wipro Healthcare Enterprises,45,Low Risk,774091,160410.16,20.72%,33.33%,5.0,3,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000567,Mahindra Healthcare Enterprises,28,Low Risk,8960525,683566.54,7.63%,0.00%,13.0,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000568,Birla Healthcare Enterprises,35,Low Risk,26419255,0.00,0.00%,0.00%,30.6,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000569,Adani Healthcare Enterprises,33,Low Risk,37761594,2019701.35,5.35%,33.33%,8.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000570,JSW Healthcare Enterprises,29,Low Risk,11758875,1507391.50,12.82%,0.00%,12.0,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000571,Godrej Healthcare Enterprises,52,Medium Risk,18708451,3492114.05,18.67%,14.29%,38.3,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000572,L&T Healthcare Enterprises,30,Low Risk,767412,282175.24,36.77%,0.00%,5.0,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000573,ICICI Healthcare Enterprises,29,Low Risk,28758973,0.00,0.00%,0.00%,17.8,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000574,SBI Healthcare Enterprises,54,Medium Risk,45975514,2492028.30,5.42%,33.33%,29.0,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000575,TCS Healthcare Enterprises,50,Medium Risk,31749805,1257729.52,3.96%,16.67%,51.6,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000576,Bajaj Healthcare Enterprises,45,Low Risk,2399067,1008390.55,42.03%,25.00%,20.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000577,HCL Healthcare Enterprises,45,Low Risk,3753595,304770.79,8.12%,33.33%,43.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000578,Hindustan Healthcare Enterprises,52,Medium Risk,70669907,10869205.36,15.38%,60.00%,8.0,5,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000579,Indian Healthcare Enterprises,62,Medium Risk,448660,214917.34,47.90%,28.57%,53.0,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000580,Tech Healthcare Enterprises,36,Low Risk,38546149,3991522.49,10.36%,40.00%,8.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000581,Tata Retail Enterprises,25,Low Risk,15133173,3725526.30,24.62%,0.00%,0.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000582,Reliance Retail Enterprises,49,Low Risk,857642,117513.47,13.70%,25.00%,19.3,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000583,Infosys Retail Enterprises,42,Low Risk,789832,30393.93,3.85%,0.00%,23.3,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000584,Bharti Retail Enterprises,42,Low Risk,3868132,122508.14,3.17%,0.00%,22.0,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000585,HDFC Retail Enterprises,68,Medium Risk,289494,152066.15,52.53%,50.00%,58.5,4,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000586,Wipro Retail Enterprises,46,Low Risk,746717,205410.88,27.51%,20.00%,62.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000587,Mahindra Retail Enterprises,52,Medium Risk,137363129,15508372.49,11.29%,28.57%,25.8,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000588,Birla Retail Enterprises,42,Low Risk,24035190,5782899.69,24.06%,60.00%,5.0,5,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000589,Adani Retail Enterprises,50,Medium Risk,225388,51129.60,22.69%,33.33%,15.0,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000590,JSW Retail Enterprises,37,Low Risk,70744337,5501944.41,7.78%,0.00%,44.3,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000591,Godrej Retail Enterprises,53,Medium Risk,479790,163830.37,34.15%,25.00%,20.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000592,L&T Retail Enterprises,75,High Risk,350176,332172.82,94.86%,42.86%,53.0,7,3,Yes,No,Credit Hold / Advance Payment,2025-04-15
+CUST000593,ICICI Retail Enterprises,46,Low Risk,793951,169193.49,21.31%,28.57%,57.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000594,SBI Retail Enterprises,48,Low Risk,4384902,149578.83,3.41%,14.29%,26.8,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000595,TCS Retail Enterprises,43,Low Risk,8821893,905529.33,10.26%,40.00%,21.3,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000596,Bajaj Retail Enterprises,54,Medium Risk,97733976,10138301.05,10.37%,66.67%,122.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000597,HCL Retail Enterprises,39,Low Risk,5919463,2293659.16,38.75%,28.57%,8.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000598,Hindustan Retail Enterprises,49,Low Risk,4690989,1231136.35,26.24%,50.00%,22.7,8,4,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000599,Indian Retail Enterprises,58,Medium Risk,148726,114882.98,77.24%,28.57%,49.8,7,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000600,Tech Retail Enterprises,57,Medium Risk,15023975,3075856.04,20.47%,33.33%,69.0,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000601,Tata Media Enterprises,44,Low Risk,727831,50134.58,6.89%,0.00%,25.8,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000602,Reliance Media Enterprises,41,Low Risk,12658083,4984434.74,39.38%,12.50%,0.0,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000603,Infosys Media Enterprises,45,Low Risk,80962353,8347394.30,10.31%,16.67%,17.8,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000604,Bharti Media Enterprises,47,Low Risk,5751518,652634.08,11.35%,0.00%,29.3,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000605,HDFC Media Enterprises,33,Low Risk,5055014,179783.34,3.56%,25.00%,11.3,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000606,Wipro Media Enterprises,53,Medium Risk,5777456,1467157.46,25.39%,66.67%,2.5,6,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000607,Mahindra Media Enterprises,47,Low Risk,43981335,3315946.39,7.54%,0.00%,55.3,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000608,Birla Media Enterprises,23,Minimal Risk,21800201,0.00,0.00%,0.00%,6.0,5,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000609,Adani Media Enterprises,41,Low Risk,8604599,1523369.78,17.70%,28.57%,20.3,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000610,JSW Media Enterprises,47,Low Risk,618007,53167.40,8.60%,0.00%,47.3,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000611,Godrej Media Enterprises,41,Low Risk,6370337,983354.23,15.44%,25.00%,2.3,8,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000612,L&T Media Enterprises,21,Minimal Risk,46377123,3128407.69,6.75%,0.00%,0.0,4,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000613,ICICI Media Enterprises,62,Medium Risk,769410,271402.27,35.27%,40.00%,123.5,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000614,SBI Media Enterprises,53,Medium Risk,940195,161749.10,17.20%,20.00%,35.0,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000615,TCS Media Enterprises,20,Minimal Risk,8681759,152791.57,1.76%,0.00%,0.0,4,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000616,Bajaj Media Enterprises,42,Low Risk,306000,45127.92,14.75%,0.00%,17.4,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000617,HCL Media Enterprises,47,Low Risk,5812975,519005.92,8.93%,0.00%,32.3,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000618,Hindustan Media Enterprises,44,Low Risk,2112624,302591.91,14.32%,25.00%,30.3,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000619,Indian Media Enterprises,41,Low Risk,3971258,519978.26,13.09%,14.29%,32.5,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000620,Tech Media Enterprises,42,Low Risk,954053,0.00,0.00%,0.00%,24.7,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000621,Tata Telecom Enterprises,22,Minimal Risk,9571533,893052.32,9.33%,0.00%,0.0,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000622,Reliance Telecom Enterprises,33,Low Risk,862241,140076.04,16.25%,0.00%,0.0,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000623,Infosys Telecom Enterprises,74,Medium Risk,193889,281057.12,144.96%,75.00%,99.0,4,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000624,Bharti Telecom Enterprises,46,Low Risk,558481,195057.61,34.93%,25.00%,6.0,8,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000625,HDFC Telecom Enterprises,30,Low Risk,8350907,847244.66,10.15%,0.00%,15.5,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000626,Wipro Telecom Enterprises,43,Low Risk,8934638,640417.10,7.17%,25.00%,52.4,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000627,Mahindra Telecom Enterprises,50,Medium Risk,827216,106824.00,12.91%,20.00%,24.7,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000628,Birla Telecom Enterprises,30,Low Risk,3384408,0.00,0.00%,0.00%,19.4,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000629,Adani Telecom Enterprises,70,Medium Risk,1633730,1038698.69,63.58%,50.00%,84.0,4,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000630,JSW Telecom Enterprises,58,Medium Risk,248138,157470.25,63.46%,40.00%,41.3,5,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000631,Godrej Telecom Enterprises,50,Medium Risk,22602121,1985795.89,8.79%,12.50%,52.8,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000632,L&T Telecom Enterprises,75,High Risk,1739133,1710950.28,98.38%,62.50%,18.7,8,5,Yes,No,Credit Hold / Advance Payment,2025-04-15
+CUST000633,ICICI Telecom Enterprises,43,Low Risk,965336,137707.93,14.27%,40.00%,19.3,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000634,SBI Telecom Enterprises,48,Low Risk,6244750,534982.61,8.57%,16.67%,24.0,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000635,TCS Telecom Enterprises,66,Medium Risk,901641,398281.47,44.17%,50.00%,29.0,8,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000636,Bajaj Telecom Enterprises,44,Low Risk,335059,96967.22,28.94%,14.29%,8.8,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000637,HCL Telecom Enterprises,52,Medium Risk,914721,277889.32,30.38%,33.33%,15.0,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000638,Hindustan Telecom Enterprises,35,Low Risk,6762340,952963.65,14.09%,16.67%,16.7,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000639,Indian Telecom Enterprises,42,Low Risk,1006684,166053.42,16.50%,16.67%,29.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000640,Tech Telecom Enterprises,42,Low Risk,5959241,587154.43,9.85%,14.29%,12.0,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000641,Tata Software Enterprises,23,Minimal Risk,964714,38252.87,3.97%,0.00%,5.0,4,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000642,Reliance Software Enterprises,53,Medium Risk,2581040,1798807.51,69.69%,37.50%,0.0,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000643,Infosys Software Enterprises,49,Low Risk,36810041,8222222.06,22.34%,57.14%,0.0,7,4,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000644,Bharti Software Enterprises,32,Low Risk,7175839,276482.62,3.85%,0.00%,2.3,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000645,HDFC Software Enterprises,40,Low Risk,4020591,176256.19,4.38%,25.00%,25.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000646,Wipro Software Enterprises,36,Low Risk,44116445,2262879.12,5.13%,0.00%,46.7,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000647,Mahindra Software Enterprises,35,Low Risk,207430,0.00,0.00%,0.00%,47.8,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000648,Birla Software Enterprises,40,Low Risk,576512,13861.16,2.40%,20.00%,35.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000649,Adani Software Enterprises,26,Low Risk,9637493,593796.33,6.16%,0.00%,10.0,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000650,JSW Software Enterprises,65,Medium Risk,568103,225907.95,39.77%,50.00%,69.3,8,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000651,Godrej Software Enterprises,50,Medium Risk,49267311,1700871.20,3.45%,66.67%,26.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000652,L&T Software Enterprises,50,Medium Risk,1307201,300822.73,23.01%,0.00%,44.3,8,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000653,ICICI Software Enterprises,61,Medium Risk,489010,185657.96,37.97%,33.33%,57.5,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000654,SBI Software Enterprises,58,Medium Risk,2136399,1465943.88,68.62%,57.14%,0.0,7,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000655,TCS Software Enterprises,35,Low Risk,727114,0.00,0.00%,0.00%,31.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000656,Bajaj Software Enterprises,46,Low Risk,7777047,1010982.09,13.00%,25.00%,14.6,8,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000657,HCL Software Enterprises,58,Medium Risk,40846710,6846870.13,16.76%,42.86%,27.7,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000658,Hindustan Software Enterprises,45,Low Risk,154908728,0.00,0.00%,0.00%,42.5,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000659,Indian Software Enterprises,33,Low Risk,12372146,0.00,0.00%,0.00%,5.8,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000660,Tech Software Enterprises,43,Low Risk,217817,56547.39,25.96%,12.50%,56.6,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000661,Tata Hardware Enterprises,27,Low Risk,1681695,174452.63,10.37%,0.00%,9.2,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000662,Reliance Hardware Enterprises,52,Medium Risk,6129325,836302.58,13.64%,16.67%,71.3,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000663,Infosys Hardware Enterprises,51,Medium Risk,4096919,874946.14,21.36%,28.57%,18.5,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000664,Bharti Hardware Enterprises,43,Low Risk,3173516,695065.85,21.90%,40.00%,17.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000665,HDFC Hardware Enterprises,43,Low Risk,5491141,664887.20,12.11%,50.00%,16.5,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000666,Wipro Hardware Enterprises,34,Low Risk,8052859,1145401.67,14.22%,33.33%,5.5,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000667,Mahindra Hardware Enterprises,61,Medium Risk,587422,364877.07,62.11%,60.00%,27.0,5,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000668,Birla Hardware Enterprises,40,Low Risk,83785946,3035301.25,3.62%,16.67%,90.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000669,Adani Hardware Enterprises,46,Low Risk,707923,85318.99,12.05%,33.33%,58.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000670,JSW Hardware Enterprises,40,Low Risk,971771,178544.22,18.37%,66.67%,0.0,3,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000671,Godrej Hardware Enterprises,20,Minimal Risk,7890461,0.00,0.00%,0.00%,0.0,4,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000672,L&T Hardware Enterprises,29,Low Risk,9087043,1208623.34,13.30%,25.00%,0.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000673,ICICI Hardware Enterprises,39,Low Risk,826198,135454.86,16.39%,40.00%,12.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000674,SBI Hardware Enterprises,32,Low Risk,676457,61548.67,9.10%,0.00%,20.8,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000675,TCS Hardware Enterprises,35,Low Risk,741919,0.00,0.00%,0.00%,55.8,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000676,Bajaj Hardware Enterprises,35,Low Risk,4082375,0.00,0.00%,0.00%,38.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000677,HCL Hardware Enterprises,44,Low Risk,940347,192310.12,20.45%,80.00%,0.0,5,4,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000678,Hindustan Hardware Enterprises,42,Low Risk,7141882,76994.43,1.08%,16.67%,15.4,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000679,Indian Hardware Enterprises,50,Medium Risk,782257,185846.60,23.76%,42.86%,32.0,7,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000680,Tech Hardware Enterprises,20,Minimal Risk,2976111,0.00,0.00%,0.00%,0.0,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000681,Tata Food Enterprises,38,Low Risk,39118526,3250901.88,8.31%,25.00%,0.0,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000682,Reliance Food Enterprises,34,Low Risk,49807724,1237602.23,2.48%,16.67%,18.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000683,Infosys Food Enterprises,34,Low Risk,9595271,511810.01,5.33%,12.50%,18.7,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000684,Bharti Food Enterprises,62,Medium Risk,3265015,669652.04,20.51%,50.00%,43.7,6,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000685,HDFC Food Enterprises,49,Low Risk,22312853,2232438.18,10.01%,28.57%,19.8,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000686,Wipro Food Enterprises,40,Low Risk,381879,85952.25,22.51%,0.00%,11.0,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000687,Mahindra Food Enterprises,42,Low Risk,1376330,585737.78,42.56%,14.29%,0.7,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000688,Birla Food Enterprises,26,Low Risk,11256868,3261476.62,28.97%,0.00%,0.0,8,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000689,Adani Food Enterprises,43,Low Risk,197118,0.00,0.00%,0.00%,26.4,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000690,JSW Food Enterprises,33,Low Risk,638499,0.00,0.00%,0.00%,5.3,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000691,Godrej Food Enterprises,45,Low Risk,39969770,1973656.02,4.94%,0.00%,28.0,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000692,L&T Food Enterprises,63,Medium Risk,1288380,766095.50,59.46%,25.00%,57.3,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000693,ICICI Food Enterprises,58,Medium Risk,895585,205682.91,22.97%,33.33%,35.7,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000694,SBI Food Enterprises,36,Low Risk,39551368,1848476.53,4.67%,0.00%,42.8,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000695,TCS Food Enterprises,41,Low Risk,6370229,524241.55,8.23%,0.00%,19.5,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000696,Bajaj Food Enterprises,51,Medium Risk,3239974,520847.83,16.08%,66.67%,3.0,3,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000697,HCL Food Enterprises,36,Low Risk,562194,60614.98,10.78%,25.00%,14.7,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000698,Hindustan Food Enterprises,46,Low Risk,505336,28259.56,5.59%,0.00%,41.5,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000699,Indian Food Enterprises,56,Medium Risk,22079123,5243121.84,23.75%,25.00%,48.6,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000700,Tech Food Enterprises,39,Low Risk,2211771,838214.29,37.90%,20.00%,13.7,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000701,Tata Agro Enterprises,43,Low Risk,5579612,417261.63,7.48%,0.00%,23.0,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000702,Reliance Agro Enterprises,49,Low Risk,28025546,4201499.99,14.99%,50.00%,7.8,8,4,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000703,Infosys Agro Enterprises,47,Low Risk,971288,80527.62,8.29%,40.00%,39.3,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000704,Bharti Agro Enterprises,31,Low Risk,6444342,517712.83,8.03%,25.00%,7.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000705,HDFC Agro Enterprises,34,Low Risk,1588328,550202.34,34.64%,16.67%,5.0,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000706,Wipro Agro Enterprises,55,Medium Risk,46058164,3873027.46,8.41%,33.33%,66.3,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000707,Mahindra Agro Enterprises,57,Medium Risk,456753,210310.87,46.04%,12.50%,37.2,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000708,Birla Agro Enterprises,55,Medium Risk,680287,199188.31,29.28%,50.00%,13.0,6,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000709,Adani Agro Enterprises,41,Low Risk,11063947,2343017.59,21.18%,0.00%,14.2,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000710,JSW Agro Enterprises,35,Low Risk,6309400,0.00,0.00%,0.00%,43.3,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000711,Godrej Agro Enterprises,49,Low Risk,7536196,589771.26,7.83%,50.00%,44.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000712,L&T Agro Enterprises,43,Low Risk,3443473,646510.27,18.77%,16.67%,38.3,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000713,ICICI Agro Enterprises,39,Low Risk,7554060,495069.58,6.55%,14.29%,28.8,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000714,SBI Agro Enterprises,44,Low Risk,15878776,1832305.33,11.54%,33.33%,27.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000715,TCS Agro Enterprises,40,Low Risk,7558825,620735.72,8.21%,12.50%,9.8,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000716,Bajaj Agro Enterprises,29,Low Risk,46626867,1486973.91,3.19%,12.50%,11.0,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000717,HCL Agro Enterprises,60,Medium Risk,242057,204756.37,84.59%,50.00%,21.0,6,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000718,Hindustan Agro Enterprises,57,Medium Risk,39210024,4416097.50,11.26%,40.00%,57.5,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000719,Indian Agro Enterprises,29,Low Risk,11857774,2718019.81,22.92%,16.67%,1.3,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000720,Tech Agro Enterprises,28,Low Risk,19209629,2506543.98,13.05%,20.00%,1.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000721,Tata Resources Enterprises,35,Low Risk,172675,108789.56,63.00%,0.00%,4.0,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000722,Reliance Resources Enterprises,47,Low Risk,2075122,612041.05,29.49%,14.29%,16.0,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000723,Infosys Resources Enterprises,38,Low Risk,4683741,730929.55,15.61%,0.00%,33.8,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000724,Bharti Resources Enterprises,27,Low Risk,774633,121499.00,15.68%,0.00%,8.0,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000725,HDFC Resources Enterprises,44,Low Risk,8052010,288341.18,3.58%,33.33%,54.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000726,Wipro Resources Enterprises,50,Medium Risk,948967,52574.72,5.54%,16.67%,30.2,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000727,Mahindra Resources Enterprises,48,Low Risk,62617651,3296558.65,5.26%,12.50%,28.0,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000728,Birla Resources Enterprises,43,Low Risk,7006875,1187415.07,16.95%,28.57%,5.0,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000729,Adani Resources Enterprises,61,Medium Risk,528710,150908.02,28.54%,40.00%,39.0,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000730,JSW Resources Enterprises,51,Medium Risk,37467895,4996357.74,13.34%,14.29%,51.0,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000731,Godrej Resources Enterprises,43,Low Risk,7977346,1397796.98,17.52%,60.00%,9.0,5,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000732,L&T Resources Enterprises,62,Medium Risk,299598,338267.81,112.91%,14.29%,16.0,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000733,ICICI Resources Enterprises,51,Medium Risk,2620518,1057012.72,40.34%,25.00%,14.3,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000734,SBI Resources Enterprises,60,Medium Risk,3156674,785370.47,24.88%,40.00%,52.3,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000735,TCS Resources Enterprises,49,Low Risk,8442036,716042.14,8.48%,14.29%,28.4,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000736,Bajaj Resources Enterprises,55,Medium Risk,571321,227931.12,39.90%,50.00%,45.5,6,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000737,HCL Resources Enterprises,40,Low Risk,14853165,2810088.93,18.92%,66.67%,0.0,3,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000738,Hindustan Resources Enterprises,35,Low Risk,33601224,2574162.09,7.66%,14.29%,0.0,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000739,Indian Resources Enterprises,22,Minimal Risk,132670631,8098619.10,6.10%,0.00%,2.0,7,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000740,Tech Resources Enterprises,35,Low Risk,587004,0.00,0.00%,0.00%,64.8,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000741,Tata Chemicals Enterprises,42,Low Risk,12257269,4164245.61,33.97%,12.50%,24.0,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000742,Reliance Chemicals Enterprises,65,Medium Risk,213102,235596.04,110.56%,0.00%,42.5,5,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000743,Infosys Chemicals Enterprises,36,Low Risk,39270771,1654597.73,4.21%,50.00%,4.5,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000744,Bharti Chemicals Enterprises,37,Low Risk,663317,46336.40,6.99%,16.67%,22.4,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000745,HDFC Chemicals Enterprises,45,Low Risk,5290552,507318.56,9.59%,33.33%,42.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000746,Wipro Chemicals Enterprises,37,Low Risk,535745,66191.58,12.36%,0.00%,40.7,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000747,Mahindra Chemicals Enterprises,44,Low Risk,125454,24015.12,19.14%,33.33%,3.5,3,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000748,Birla Chemicals Enterprises,39,Low Risk,901231,243776.67,27.05%,12.50%,0.3,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000749,Adani Chemicals Enterprises,46,Low Risk,684354,150679.25,22.02%,25.00%,65.5,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000750,JSW Chemicals Enterprises,54,Medium Risk,910989,382552.54,41.99%,42.86%,51.0,7,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000751,Godrej Chemicals Enterprises,53,Medium Risk,1154830,465495.18,40.31%,0.00%,36.2,7,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000752,L&T Chemicals Enterprises,78,High Risk,110084,247876.06,225.17%,50.00%,37.0,8,4,Yes,No,Credit Hold / Advance Payment,2025-04-15
+CUST000753,ICICI Chemicals Enterprises,48,Low Risk,168889166,13296495.94,7.87%,66.67%,0.0,3,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000754,SBI Chemicals Enterprises,45,Low Risk,3346036,0.00,0.00%,0.00%,30.2,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000755,TCS Chemicals Enterprises,40,Low Risk,106372,206698.42,194.32%,0.00%,0.0,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000756,Bajaj Chemicals Enterprises,72,Medium Risk,738895,327577.49,44.33%,71.43%,34.0,7,5,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000757,HCL Chemicals Enterprises,41,Low Risk,29952360,3191133.35,10.65%,14.29%,11.0,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000758,Hindustan Chemicals Enterprises,37,Low Risk,630399,248321.73,39.39%,33.33%,1.7,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000759,Indian Chemicals Enterprises,53,Medium Risk,6504772,468666.55,7.20%,66.67%,38.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000760,Tech Chemicals Enterprises,41,Low Risk,32566483,1036806.53,3.18%,20.00%,92.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000761,Tata Logistics Enterprises,39,Low Risk,469375,83110.18,17.71%,0.00%,59.5,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000762,Reliance Logistics Enterprises,45,Low Risk,842175,61381.47,7.29%,28.57%,12.6,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000763,Infosys Logistics Enterprises,41,Low Risk,7066839,465241.34,6.58%,20.00%,44.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000764,Bharti Logistics Enterprises,45,Low Risk,1130210,0.00,0.00%,0.00%,33.0,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000765,HDFC Logistics Enterprises,46,Low Risk,5393355,621495.07,11.52%,0.00%,27.8,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000766,Wipro Logistics Enterprises,45,Low Risk,730266,215881.49,29.56%,33.33%,2.5,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000767,Mahindra Logistics Enterprises,35,Low Risk,581865,135143.84,23.23%,33.33%,4.3,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000768,Birla Logistics Enterprises,52,Medium Risk,13962025,1224791.47,8.77%,20.00%,52.3,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000769,Adani Logistics Enterprises,35,Low Risk,2593814,0.00,0.00%,0.00%,39.1,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000770,JSW Logistics Enterprises,49,Low Risk,7427305,1001643.79,13.49%,66.67%,0.0,3,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000771,Godrej Logistics Enterprises,52,Medium Risk,347460,302919.28,87.18%,60.00%,0.0,5,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000772,L&T Logistics Enterprises,61,Medium Risk,1764144,1184404.39,67.14%,25.00%,22.4,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000773,ICICI Logistics Enterprises,44,Low Risk,356483,51799.62,14.53%,25.00%,37.3,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000774,SBI Logistics Enterprises,45,Low Risk,43214941,1019624.06,2.36%,0.00%,29.5,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000775,TCS Logistics Enterprises,57,Medium Risk,103471,123521.47,119.38%,66.67%,0.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000776,Bajaj Logistics Enterprises,44,Low Risk,6569728,972307.78,14.80%,25.00%,36.4,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000777,HCL Logistics Enterprises,42,Low Risk,4015131,1431740.27,35.66%,20.00%,0.0,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000778,Hindustan Logistics Enterprises,56,Medium Risk,103951,65307.03,62.82%,33.33%,9.5,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000779,Indian Logistics Enterprises,46,Low Risk,36709864,2014550.93,5.49%,0.00%,67.3,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000780,Tech Logistics Enterprises,39,Low Risk,8224202,183056.88,2.23%,20.00%,26.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000781,Tata Infrastructure Enterprises,60,Medium Risk,4067460,1474190.10,36.24%,57.14%,17.3,7,4,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000782,Reliance Infrastructure Enterprises,36,Low Risk,4851626,1563904.64,32.23%,37.50%,0.0,8,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000783,Infosys Infrastructure Enterprises,33,Low Risk,7308233,0.00,0.00%,0.00%,6.7,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000784,Bharti Infrastructure Enterprises,51,Medium Risk,3437169,124572.39,3.62%,20.00%,31.5,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000785,HDFC Infrastructure Enterprises,34,Low Risk,32346599,2228129.46,6.89%,12.50%,18.6,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000786,Wipro Infrastructure Enterprises,35,Low Risk,437664,0.00,0.00%,0.00%,32.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000787,Mahindra Infrastructure Enterprises,43,Low Risk,233212,158806.32,68.10%,0.00%,18.3,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000788,Birla Infrastructure Enterprises,49,Low Risk,819160,204412.80,24.95%,37.50%,9.0,8,3,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000789,Adani Infrastructure Enterprises,55,Medium Risk,792425,253976.51,32.05%,12.50%,33.6,8,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000790,JSW Infrastructure Enterprises,38,Low Risk,269354,61257.83,22.74%,0.00%,27.4,7,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000791,Godrej Infrastructure Enterprises,37,Low Risk,6481964,264025.24,4.07%,0.00%,13.1,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000792,L&T Infrastructure Enterprises,46,Low Risk,44697523,2824861.96,6.32%,40.00%,49.5,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000793,ICICI Infrastructure Enterprises,62,Medium Risk,1178314,816811.81,69.32%,14.29%,31.3,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000794,SBI Infrastructure Enterprises,52,Medium Risk,4412780,339960.36,7.70%,20.00%,69.7,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000795,TCS Infrastructure Enterprises,35,Low Risk,45644915,3987349.04,8.74%,12.50%,0.0,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000796,Bajaj Infrastructure Enterprises,45,Low Risk,7879766,657226.87,8.34%,33.33%,32.8,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000797,HCL Infrastructure Enterprises,50,Medium Risk,665401,35928.28,5.40%,14.29%,34.7,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000798,Hindustan Infrastructure Enterprises,38,Low Risk,154306534,0.00,0.00%,0.00%,15.5,4,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000799,Indian Infrastructure Enterprises,58,Medium Risk,6591670,873391.52,13.25%,42.86%,39.3,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000800,Tech Infrastructure Enterprises,36,Low Risk,7781641,56676.79,0.73%,0.00%,12.7,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000801,Tata Tech Solutions,40,Low Risk,8293360,750460.95,9.05%,12.50%,35.0,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000802,Reliance Tech Solutions,54,Medium Risk,869177,20166.43,2.32%,33.33%,50.5,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000803,Infosys Tech Solutions,48,Low Risk,563431,97969.08,17.39%,0.00%,29.2,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000804,Bharti Tech Solutions,58,Medium Risk,401489,100340.18,24.99%,33.33%,63.7,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000805,HDFC Tech Solutions,34,Low Risk,7975075,764423.99,9.59%,12.50%,18.7,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000806,Wipro Tech Solutions,52,Medium Risk,148094,28639.99,19.34%,33.33%,19.5,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000807,Mahindra Tech Solutions,31,Low Risk,27574415,3343740.38,12.13%,25.00%,5.6,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000808,Birla Tech Solutions,38,Low Risk,6878872,937536.99,13.63%,20.00%,21.5,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000809,Adani Tech Solutions,59,Medium Risk,11546069,5441740.48,47.13%,57.14%,59.3,7,4,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000810,JSW Tech Solutions,41,Low Risk,19083835,2017198.66,10.57%,33.33%,22.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000811,Godrej Tech Solutions,36,Low Risk,6582703,281269.93,4.27%,0.00%,61.5,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000812,L&T Tech Solutions,34,Low Risk,9272267,795350.41,8.58%,14.29%,17.5,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000813,ICICI Tech Solutions,59,Medium Risk,1448526,1387357.29,95.78%,28.57%,5.7,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000814,SBI Tech Solutions,65,Medium Risk,500115,416413.97,83.26%,71.43%,0.0,7,5,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000815,TCS Tech Solutions,42,Low Risk,4410904,1558066.11,35.32%,42.86%,8.7,7,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000816,Bajaj Tech Solutions,35,Low Risk,43244193,4148240.35,9.59%,25.00%,14.3,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000817,HCL Tech Solutions,31,Low Risk,7298242,318856.33,4.37%,40.00%,0.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000818,Hindustan Tech Solutions,27,Low Risk,929026,0.00,0.00%,0.00%,13.5,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000819,Indian Tech Solutions,33,Low Risk,682522,28997.99,4.25%,0.00%,5.0,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000820,Tech Tech Solutions,31,Low Risk,5817509,795239.97,13.67%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000821,Tata Info Solutions,44,Low Risk,7645044,597442.93,7.81%,28.57%,59.6,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000822,Reliance Info Solutions,37,Low Risk,15233967,3664109.25,24.05%,20.00%,15.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000823,Infosys Info Solutions,37,Low Risk,877802,115600.24,13.17%,12.50%,2.0,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000824,Bharti Info Solutions,52,Medium Risk,708145,77914.69,11.00%,20.00%,53.0,5,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000825,HDFC Info Solutions,49,Low Risk,935766,165705.63,17.71%,40.00%,57.7,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000826,Wipro Info Solutions,51,Medium Risk,33385804,2581017.76,7.73%,25.00%,27.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000827,Mahindra Info Solutions,54,Medium Risk,7775942,391549.44,5.04%,33.33%,39.8,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000828,Birla Info Solutions,48,Low Risk,985564,269525.41,27.35%,28.57%,32.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000829,Adani Info Solutions,56,Medium Risk,2700676,1414966.04,52.39%,37.50%,12.0,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000830,JSW Info Solutions,41,Low Risk,7738890,995854.25,12.87%,12.50%,54.8,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000831,Godrej Info Solutions,57,Medium Risk,15506644,4007489.42,25.84%,28.57%,39.0,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000832,L&T Info Solutions,27,Low Risk,8387114,1357720.45,16.19%,12.50%,1.4,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000833,ICICI Info Solutions,58,Medium Risk,6070404,753012.21,12.40%,42.86%,39.0,7,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000834,SBI Info Solutions,48,Low Risk,1795656,280966.12,15.65%,0.00%,43.0,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000835,TCS Info Solutions,68,Medium Risk,10362363,3950759.02,38.13%,60.00%,31.0,5,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000836,Bajaj Info Solutions,48,Low Risk,8625884,1793546.88,20.79%,28.57%,13.3,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000837,HCL Info Solutions,55,Medium Risk,7653260,1436986.34,18.78%,37.50%,22.8,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000838,Hindustan Info Solutions,41,Low Risk,831814,23779.10,2.86%,20.00%,46.3,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000839,Indian Info Solutions,34,Low Risk,6668902,653233.64,9.80%,25.00%,12.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000840,Tech Info Solutions,24,Minimal Risk,8039494,0.00,0.00%,0.00%,7.0,4,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000841,Tata Auto Solutions,45,Low Risk,448027,0.00,0.00%,0.00%,29.2,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000842,Reliance Auto Solutions,45,Low Risk,572967,194944.04,34.02%,33.33%,0.0,3,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000843,Infosys Auto Solutions,40,Low Risk,17658708,1451024.09,8.22%,14.29%,10.4,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000844,Bharti Auto Solutions,52,Medium Risk,24980343,945371.14,3.78%,25.00%,50.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000845,HDFC Auto Solutions,41,Low Risk,723133,60773.79,8.40%,33.33%,21.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000846,Wipro Auto Solutions,44,Low Risk,755330,25175.51,3.33%,33.33%,61.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000847,Mahindra Auto Solutions,37,Low Risk,6314322,705427.52,11.17%,12.50%,3.0,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000848,Birla Auto Solutions,47,Low Risk,865958,142241.54,16.43%,33.33%,55.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000849,Adani Auto Solutions,43,Low Risk,4004520,883296.33,22.06%,75.00%,0.0,4,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000850,JSW Auto Solutions,45,Low Risk,80733361,4843116.99,6.00%,33.33%,93.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000851,Godrej Auto Solutions,52,Medium Risk,7079880,877584.20,12.40%,28.57%,24.0,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000852,L&T Auto Solutions,54,Medium Risk,706909,163320.29,23.10%,16.67%,51.3,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000853,ICICI Auto Solutions,52,Medium Risk,4410811,669948.89,15.19%,14.29%,63.3,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000854,SBI Auto Solutions,58,Medium Risk,118577,138376.16,116.70%,12.50%,33.6,8,1,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000855,TCS Auto Solutions,38,Low Risk,358135,68253.75,19.06%,0.00%,28.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000856,Bajaj Auto Solutions,41,Low Risk,503756,125992.49,25.01%,25.00%,0.0,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000857,HCL Auto Solutions,48,Low Risk,394597,66579.09,16.87%,25.00%,16.7,8,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000858,Hindustan Auto Solutions,58,Medium Risk,1646136,797982.91,48.48%,14.29%,43.2,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000859,Indian Auto Solutions,40,Low Risk,4912083,810188.50,16.49%,25.00%,0.0,4,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000860,Tech Auto Solutions,48,Low Risk,34256072,7621821.34,22.25%,37.50%,7.7,8,3,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000861,Tata Fin Solutions,36,Low Risk,5475069,1027454.05,18.77%,50.00%,0.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000862,Reliance Fin Solutions,59,Medium Risk,6655861,1188721.34,17.86%,100.00%,0.0,3,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000863,Infosys Fin Solutions,40,Low Risk,826177,119586.91,14.47%,20.00%,5.0,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000864,Bharti Fin Solutions,40,Low Risk,6493239,580858.23,8.95%,14.29%,48.2,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000865,HDFC Fin Solutions,63,Medium Risk,382860,217514.02,56.81%,25.00%,39.3,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000866,Wipro Fin Solutions,39,Low Risk,2990465,154060.82,5.15%,14.29%,9.2,7,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000867,Mahindra Fin Solutions,55,Medium Risk,312313,272718.78,87.32%,16.67%,26.7,6,1,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000868,Birla Fin Solutions,27,Low Risk,38326877,0.00,0.00%,0.00%,13.6,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000869,Adani Fin Solutions,58,Medium Risk,4013295,1375648.31,34.28%,25.00%,37.5,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000870,JSW Fin Solutions,55,Medium Risk,405962,89436.05,22.03%,33.33%,25.0,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000871,Godrej Fin Solutions,45,Low Risk,457457,84402.82,18.45%,25.00%,43.7,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000872,L&T Fin Solutions,35,Low Risk,103065121,689534.53,0.67%,33.33%,14.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000873,ICICI Fin Solutions,34,Low Risk,903658,61598.57,6.82%,0.00%,24.3,8,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000874,SBI Fin Solutions,38,Low Risk,29593632,2518562.07,8.51%,14.29%,25.5,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000875,TCS Fin Solutions,45,Low Risk,9324236,225971.47,2.42%,0.00%,41.7,8,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000876,Bajaj Fin Solutions,49,Low Risk,716352,107474.41,15.00%,16.67%,23.0,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000877,HCL Fin Solutions,48,Low Risk,43578535,754926.46,1.73%,50.00%,50.0,4,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000878,Hindustan Fin Solutions,59,Medium Risk,277050,144562.83,52.18%,14.29%,32.5,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000879,Indian Fin Solutions,38,Low Risk,123107776,7757652.14,6.30%,66.67%,0.0,3,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000880,Tech Fin Solutions,56,Medium Risk,762442,99152.94,13.00%,33.33%,114.0,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000881,Tata Power Solutions,49,Low Risk,3956592,867741.17,21.93%,40.00%,9.0,5,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000882,Reliance Power Solutions,45,Low Risk,9453072,674459.14,7.13%,33.33%,34.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000883,Infosys Power Solutions,43,Low Risk,31810303,3325261.23,10.45%,25.00%,33.5,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000884,Bharti Power Solutions,38,Low Risk,3030028,985113.12,32.51%,20.00%,12.0,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000885,HDFC Power Solutions,39,Low Risk,626682,179545.94,28.65%,25.00%,14.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000886,Wipro Power Solutions,49,Low Risk,753039,87093.14,11.57%,33.33%,16.5,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000887,Mahindra Power Solutions,35,Low Risk,12909752,0.00,0.00%,0.00%,43.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000888,Birla Power Solutions,48,Low Risk,535729,76733.37,14.32%,0.00%,33.0,3,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000889,Adani Power Solutions,51,Medium Risk,762021,138607.81,18.19%,50.00%,49.5,6,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000890,JSW Power Solutions,31,Low Risk,8606498,850641.83,9.88%,20.00%,7.5,5,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000891,Godrej Power Solutions,54,Medium Risk,463238,323307.43,69.79%,40.00%,0.0,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000892,L&T Power Solutions,54,Medium Risk,115311033,4258250.01,3.69%,33.33%,64.0,3,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000893,ICICI Power Solutions,46,Low Risk,3235009,359152.21,11.10%,33.33%,97.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000894,SBI Power Solutions,55,Medium Risk,9570257,1016645.97,10.62%,33.33%,46.7,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000895,TCS Power Solutions,58,Medium Risk,973600,159868.23,16.42%,40.00%,37.3,5,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000896,Bajaj Power Solutions,48,Low Risk,1639205,365191.07,22.28%,33.33%,34.3,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000897,HCL Power Solutions,21,Minimal Risk,7354881,0.00,0.00%,0.00%,2.7,6,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000898,Hindustan Power Solutions,35,Low Risk,5279864,701336.40,13.28%,25.00%,12.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000899,Indian Power Solutions,33,Low Risk,8069245,624454.73,7.74%,25.00%,11.0,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000900,Tech Power Solutions,44,Low Risk,222826,55576.60,24.94%,0.00%,18.6,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000901,Tata Steel Solutions,41,Low Risk,44664625,3275462.00,7.33%,16.67%,46.8,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000902,Reliance Steel Solutions,53,Medium Risk,56593809,13598815.40,24.03%,25.00%,24.8,8,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000903,Infosys Steel Solutions,39,Low Risk,45965986,1094501.66,2.38%,33.33%,20.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000904,Bharti Steel Solutions,20,Minimal Risk,19374528,369509.16,1.91%,0.00%,0.0,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000905,HDFC Steel Solutions,40,Low Risk,866173,205594.32,23.74%,28.57%,17.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000906,Wipro Steel Solutions,38,Low Risk,5081664,484578.68,9.54%,33.33%,15.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000907,Mahindra Steel Solutions,41,Low Risk,5778600,560456.02,9.70%,14.29%,44.6,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000908,Birla Steel Solutions,48,Low Risk,5346780,438169.98,8.20%,37.50%,13.2,8,3,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000909,Adani Steel Solutions,53,Medium Risk,4105128,413614.29,10.08%,25.00%,32.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000910,JSW Steel Solutions,52,Medium Risk,4383776,847238.52,19.33%,16.67%,27.0,6,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000911,Godrej Steel Solutions,53,Medium Risk,18848676,3082905.27,16.36%,50.00%,15.0,4,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000912,L&T Steel Solutions,40,Low Risk,21053094,2423700.28,11.51%,25.00%,22.8,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000913,ICICI Steel Solutions,47,Low Risk,4580781,306259.05,6.69%,50.00%,7.0,4,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000914,SBI Steel Solutions,47,Low Risk,1725795,407299.98,23.60%,28.57%,55.8,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000915,TCS Steel Solutions,37,Low Risk,6541139,974906.95,14.90%,33.33%,11.3,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000916,Bajaj Steel Solutions,53,Medium Risk,408310,101293.15,24.81%,66.67%,23.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000917,HCL Steel Solutions,35,Low Risk,158662,0.00,0.00%,0.00%,29.0,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000918,Hindustan Steel Solutions,27,Low Risk,54561052,0.00,0.00%,0.00%,14.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000919,Indian Steel Solutions,34,Low Risk,26216197,0.00,0.00%,0.00%,27.7,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000920,Tech Steel Solutions,58,Medium Risk,374163,132282.31,35.35%,25.00%,63.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000921,Tata Textiles Solutions,45,Low Risk,645651,235047.05,36.40%,12.50%,66.0,8,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000922,Reliance Textiles Solutions,47,Low Risk,35154252,6063074.55,17.25%,33.33%,61.0,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000923,Infosys Textiles Solutions,51,Medium Risk,44664402,7526236.31,16.85%,50.00%,51.0,8,4,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000924,Bharti Textiles Solutions,47,Low Risk,473281,88698.94,18.74%,33.33%,37.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000925,HDFC Textiles Solutions,60,Medium Risk,1149884,1148382.68,99.87%,37.50%,20.8,8,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000926,Wipro Textiles Solutions,44,Low Risk,9782913,725752.61,7.42%,50.00%,0.0,4,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000927,Mahindra Textiles Solutions,48,Low Risk,6955315,832852.73,11.97%,50.00%,7.0,6,3,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000928,Birla Textiles Solutions,34,Low Risk,944983,178304.76,18.87%,40.00%,0.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000929,Adani Textiles Solutions,69,Medium Risk,205830,208550.02,101.32%,14.29%,30.3,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000930,JSW Textiles Solutions,46,Low Risk,5066514,1058029.51,20.88%,28.57%,46.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000931,Godrej Textiles Solutions,42,Low Risk,6973387,1025429.07,14.70%,75.00%,0.0,4,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000932,L&T Textiles Solutions,45,Low Risk,17723907,2660265.35,15.01%,28.57%,9.6,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000933,ICICI Textiles Solutions,32,Low Risk,5829695,0.00,0.00%,0.00%,24.4,8,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000934,SBI Textiles Solutions,36,Low Risk,6038186,1795960.29,29.74%,16.67%,11.5,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000935,TCS Textiles Solutions,36,Low Risk,8145171,263605.38,3.24%,20.00%,1.5,5,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000936,Bajaj Textiles Solutions,40,Low Risk,611764,205327.52,33.56%,33.33%,9.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000937,HCL Textiles Solutions,43,Low Risk,848185,196943.01,23.22%,16.67%,7.7,6,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000938,Hindustan Textiles Solutions,55,Medium Risk,126740777,6154027.35,4.86%,75.00%,48.0,4,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000939,Indian Textiles Solutions,33,Low Risk,793211,133737.02,16.86%,0.00%,0.0,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000940,Tech Textiles Solutions,21,Minimal Risk,29078626,1877424.68,6.46%,0.00%,0.0,6,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000941,Tata Pharma Solutions,35,Low Risk,3870540,343973.26,8.89%,0.00%,27.3,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000942,Reliance Pharma Solutions,43,Low Risk,3761731,1632316.29,43.39%,50.00%,2.8,8,4,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000943,Infosys Pharma Solutions,37,Low Risk,539895,176438.52,32.68%,40.00%,0.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000944,Bharti Pharma Solutions,32,Low Risk,49819581,0.00,0.00%,0.00%,23.2,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000945,HDFC Pharma Solutions,45,Low Risk,14719246,0.00,0.00%,0.00%,38.0,6,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000946,Wipro Pharma Solutions,41,Low Risk,25315752,2090560.02,8.26%,16.67%,61.3,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000947,Mahindra Pharma Solutions,55,Medium Risk,1003458,1301124.34,129.66%,0.00%,69.0,4,0,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000948,Birla Pharma Solutions,38,Low Risk,715119,87648.68,12.26%,14.29%,23.4,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000949,Adani Pharma Solutions,43,Low Risk,4470899,1137728.22,25.45%,25.00%,24.2,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000950,JSW Pharma Solutions,43,Low Risk,6322276,1415531.44,22.39%,33.33%,0.0,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000951,Godrej Pharma Solutions,41,Low Risk,556959,254033.49,45.61%,28.57%,10.0,7,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000952,L&T Pharma Solutions,39,Low Risk,2541539,523537.10,20.60%,14.29%,23.0,7,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000953,ICICI Pharma Solutions,25,Low Risk,455947,0.00,0.00%,0.00%,10.0,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000954,SBI Pharma Solutions,43,Low Risk,762517,75387.38,9.89%,25.00%,56.3,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000955,TCS Pharma Solutions,50,Medium Risk,7707907,1118623.01,14.51%,50.00%,57.0,6,3,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000956,Bajaj Pharma Solutions,70,Medium Risk,258578,365584.88,141.38%,33.33%,24.0,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000957,HCL Pharma Solutions,46,Low Risk,9759396,491739.23,5.04%,28.57%,15.5,7,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000958,Hindustan Pharma Solutions,53,Medium Risk,327498,130493.79,39.85%,0.00%,98.0,4,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000959,Indian Pharma Solutions,69,Medium Risk,1395496,1164033.16,83.41%,28.57%,64.3,7,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000960,Tech Pharma Solutions,48,Low Risk,501308,76719.22,15.30%,33.33%,12.8,6,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000961,Tata Healthcare Solutions,24,Minimal Risk,495863,0.00,0.00%,0.00%,8.7,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000962,Reliance Healthcare Solutions,60,Medium Risk,441435,168703.34,38.22%,37.50%,26.4,8,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000963,Infosys Healthcare Solutions,35,Low Risk,2990638,0.00,0.00%,0.00%,43.0,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000964,Bharti Healthcare Solutions,66,Medium Risk,125402,222625.69,177.53%,60.00%,2.0,5,3,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000965,HDFC Healthcare Solutions,40,Low Risk,1189442,467179.10,39.28%,25.00%,12.0,4,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000966,Wipro Healthcare Solutions,32,Low Risk,181267,31097.60,17.16%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000967,Mahindra Healthcare Solutions,37,Low Risk,15263525,1658085.65,10.86%,0.00%,44.5,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000968,Birla Healthcare Solutions,57,Medium Risk,132507,226036.57,170.58%,66.67%,0.0,3,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000969,Adani Healthcare Solutions,40,Low Risk,49174535,5341009.30,10.86%,42.86%,14.0,7,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000970,JSW Healthcare Solutions,30,Low Risk,19406252,0.00,0.00%,0.00%,19.3,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000971,Godrej Healthcare Solutions,52,Medium Risk,4402983,933928.04,21.21%,50.00%,48.0,4,2,No,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000972,L&T Healthcare Solutions,43,Low Risk,9229075,717524.89,7.77%,25.00%,33.0,8,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000973,ICICI Healthcare Solutions,55,Medium Risk,5134391,478525.67,9.32%,33.33%,31.5,6,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000974,SBI Healthcare Solutions,45,Low Risk,1268278,370731.44,29.23%,33.33%,21.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000975,TCS Healthcare Solutions,32,Low Risk,37435326,0.00,0.00%,0.00%,24.3,3,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000976,Bajaj Healthcare Solutions,54,Medium Risk,20908367,2427402.16,11.61%,50.00%,17.5,4,2,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000977,HCL Healthcare Solutions,48,Low Risk,776745,179720.47,23.14%,33.33%,54.5,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000978,Hindustan Healthcare Solutions,21,Minimal Risk,168018459,9739775.57,5.80%,0.00%,0.0,5,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000979,Indian Healthcare Solutions,29,Low Risk,38423535,2038374.77,5.31%,33.33%,0.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000980,Tech Healthcare Solutions,36,Low Risk,308474,17947.97,5.82%,0.00%,47.8,5,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000981,Tata Retail Solutions,36,Low Risk,508467,28148.78,5.54%,0.00%,38.0,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000982,Reliance Retail Solutions,26,Low Risk,9574766,981171.66,10.25%,0.00%,8.0,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000983,Infosys Retail Solutions,35,Low Risk,704766,0.00,0.00%,0.00%,41.7,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000984,Bharti Retail Solutions,57,Medium Risk,2050329,887307.61,43.28%,14.29%,31.0,7,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000985,HDFC Retail Solutions,29,Low Risk,8964993,361449.11,4.03%,33.33%,0.5,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000986,Wipro Retail Solutions,42,Low Risk,47047322,3986969.66,8.47%,12.50%,14.4,8,1,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000987,Mahindra Retail Solutions,62,Medium Risk,1209113,675520.85,55.87%,25.00%,34.0,4,1,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000988,Birla Retail Solutions,32,Low Risk,9066161,834827.30,9.21%,40.00%,0.0,5,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000989,Adani Retail Solutions,34,Low Risk,1807810,73915.50,4.09%,33.33%,10.0,3,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000990,JSW Retail Solutions,38,Low Risk,92121820,2693446.13,2.92%,16.67%,27.3,6,1,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000991,Godrej Retail Solutions,47,Low Risk,938512,110312.05,11.75%,25.00%,17.5,8,2,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000992,L&T Retail Solutions,32,Low Risk,7111218,775054.77,10.90%,0.00%,0.0,7,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST000993,ICICI Retail Solutions,24,Minimal Risk,1308290,244286.97,18.67%,0.00%,0.0,3,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15
+CUST000994,SBI Retail Solutions,49,Low Risk,29661562,7028142.97,23.69%,37.50%,36.0,8,3,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000995,TCS Retail Solutions,54,Medium Risk,1673126,787850.41,47.09%,0.00%,62.5,4,0,Yes,No,Reduce Credit Limit / Weekly Monitoring,2025-04-15
+CUST000996,Bajaj Retail Solutions,38,Low Risk,4055810,890415.53,21.95%,33.33%,11.3,6,2,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000997,HCL Retail Solutions,29,Low Risk,5126231,651283.12,12.70%,0.00%,12.5,4,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000998,Hindustan Retail Solutions,43,Low Risk,418734,166589.50,39.78%,0.00%,60.3,6,0,No,No,Monthly Review / Standard Terms,2025-04-15
+CUST000999,Indian Retail Solutions,42,Low Risk,1352881,276747.01,20.46%,0.00%,15.8,5,0,Yes,No,Monthly Review / Standard Terms,2025-04-15
+CUST001000,Tech Retail Solutions,22,Minimal Risk,469906,7972.40,1.70%,0.00%,3.3,4,0,No,No,Standard Terms / Potential Credit Increase,2025-04-15

@@ -1,0 +1,49 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  backend:
+    name: Backend Tests
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install backend dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r collect.d-backend/requirements.txt pytest
+      - name: Run backend tests
+        env:
+          COLLECTD_DATA_DIR: ${{ github.workspace }}/generated_data
+        run: |
+          pytest collect.d-backend -q --disable-warnings --maxfail=1
+
+  frontend:
+    name: Frontend Tests and Build
+    runs-on: ubuntu-latest
+    needs: backend
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Install frontend dependencies
+        working-directory: collect.d-frontend
+        run: npm ci
+      - name: Run frontend tests
+        working-directory: collect.d-frontend
+        env:
+          CI: true
+        run: npm test -- --watchAll=false --silent
+      - name: Build frontend
+        working-directory: collect.d-frontend
+        run: npm run build

@@ -1,0 +1,6 @@
+strategy_name,total_cases,resolved_cases,success_rate,total_amount_assigned,total_amount_collected,recovery_rate,avg_resolution_days,avg_case_amount,best_for_amount_range,assessment_date
+Standard Follow-up,520,0,0.00%,278339016.19,0.00,0.00%,0,535267.34,Medium,2025-04-17
+Intensive Collection,148,0,0.00%,80535194.19,0.00,0.00%,0,544156.72,High,2025-04-17
+Legal Action Warning,357,0,0.00%,189806794.33,0.00,0.00%,0,531671.69,High,2025-04-17
+Payment Plan,122,0,0.00%,69457109.30,0.00,0.00%,0,569320.57,Medium-High,2025-04-17
+Settlement Offer,142,0,0.00%,68905946.45,0.00,0.00%,0,485253.14,High,2025-04-17
